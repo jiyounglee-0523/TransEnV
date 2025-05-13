@@ -30,6 +30,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Assets
+asset
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -150,10 +153,7 @@ wandb/
 
 logs_dialect/
 logs_l1/
-test/output
-test/output
-test/output
-test/output
+test/output*
 test/source
 test/processed_output
 test/*.ipynb
