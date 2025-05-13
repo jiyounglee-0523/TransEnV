@@ -1,0 +1,15 @@
+google-ai-generativelanguage==0.6.15
+google-api-core==2.25.0rc0
+google-api-python-client==2.168.0
+google-auth==2.39.0
+google-auth-httplib2==0.2.0
+google-generativeai==0.8.5
+googleapis-common-protos==1.70.0
+vllm==0.7.3
+openai==1.65.5
+transformers==4.49.0
+datasets==3.3.2
+numpy==1.26.4
+pandas==2.2.3
+tqdm==4.67.1
+python-dotenv==1.0.1
