@@ -1,27 +1,28 @@
-from benchmark.mmlu import (
+from benchmark_test.benchmark.mmlu import (
     load_test_data as mmlu_load_test_data,
     extract_answer as mmlu_extract_answer,
 )
-from benchmark.gsm8k import (
+from benchmark_test.benchmark.gsm8k import (
     load_test_data as gsm8k_load_test_data,
     extract_answer as gsm8k_extract_answer,
 )
-from benchmark.arc import (
+from benchmark_test.benchmark.arc import (
     load_test_data as arc_load_test_data,
     extract_answer as arc_extract_answer,
 )
-from benchmark.hellaswag import (
+from benchmark_test.benchmark.hellaswag import (
     load_test_data as hellaswag_load_test_data,
     extract_answer as hellaswag_extract_answer,
 )
-from benchmark.truthful_qa import (
+from benchmark_test.benchmark.truthful_qa import (
     load_test_data as truthfulqa_load_test_data,
     extract_answer as truthfulqa_extract_answer,
 )
-from benchmark.winogrande import (
+from benchmark_test.benchmark.winogrande import (
     load_test_data as winogrande_load_test_data,
     extract_answer as winogrande_extract_answer,
 )
+
 
 
 # Function definition of each benchmark
@@ -43,6 +44,7 @@ MAIN_FUNCS = {
         "sentence",
     ),
 }
+
 
 
 # English varieties
