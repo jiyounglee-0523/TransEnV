@@ -4,7 +4,7 @@ import re
 import os
 import ast
 
-load_dotenv()
+load_dotenv(override=True)
 
 letter2index = dict(A=0, B=1, C=2, D=3)
 

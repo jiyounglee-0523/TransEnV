@@ -5,7 +5,7 @@ import os
 from torch.utils.data import Dataset, DataLoader, Subset
 
 
-load_dotenv()
+load_dotenv(override=True)
 
 expected_size_dict = {
     'dialect': 1319,

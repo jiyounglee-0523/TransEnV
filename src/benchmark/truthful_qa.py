@@ -4,7 +4,7 @@ import re
 import os
 import ast
 
-load_dotenv()
+load_dotenv(override=True)
 
 letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
