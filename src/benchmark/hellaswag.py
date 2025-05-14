@@ -1,8 +1,10 @@
-from datasets import load_dataset
-from dotenv import load_dotenv
 import re
 import os
 import ast
+from dotenv import load_dotenv
+from datasets import load_dataset
+
+
 
 load_dotenv(override=True)
 
@@ -13,20 +15,6 @@ expected_size_dict = {
     'A': 7593,
     'B': 9903,
 }
-
-# {'ind': 117,
-#  'activity_label': 'High jump',
-#  'ctx_a': 'The boy lands on his back on to a red mat. The boy gets up from the mat.',
-#  'ctx_b': 'the boy',
-#  'ctx': 'The boy lands on his back on to a red mat. The boy gets up from the mat. the boy',
-#  'endings': ['starts doing spins.',
-#   'celebrates by clapping and flexing both arms.',
-#   'is dancing on the mat.',
-#   'does jump jacks on his stick.'],
-#  'source_id': 'activitynet~v_-zHX3Gdx6I4',
-#  'split': 'val',
-#  'split_type': 'zeroshot',
-#  'label': '1'}
 
 
 def gen_prompt(instance, idx, is_cot=False):

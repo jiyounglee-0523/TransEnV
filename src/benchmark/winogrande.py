@@ -1,8 +1,9 @@
-from datasets import load_dataset
-from dotenv import load_dotenv
 import re
 import os
-import ast
+from dotenv import load_dotenv
+from datasets import load_dataset
+
+
 
 load_dotenv(override=True)
 
@@ -13,11 +14,6 @@ expected_size_dict = {
     'A': 945,
     'B': 1247,
 }
-
-# {'sentence': 'The cat of Sarah has some mouth problems, so she takes it to see Maria. _ is a responsible cat owner.',
-#  'option1': 'Sarah',
-#  'option2': 'Maria',
-#  'answer': '1'}
 
 
 def gen_prompt(instance, idx, is_cot=False):
