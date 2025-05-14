@@ -12,4 +12,7 @@ CHOICE_KEY_ID = {
     'hellaswag': 'endings'
 }
 
+
+
+# Necessary assets' path
 CEFR_GRAMMAR_FEATURE_PATH = './assets/EnglishGrammarProfileOnline.xlsx'

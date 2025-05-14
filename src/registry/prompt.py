@@ -14,6 +14,7 @@ def return_identification_system_message(guideline_instruction):
     '''
 
 
+
 def return_actionable_system_message(guideline_instruction): 
     return f'''
     Your task is to rephrase the test questions by following the guideline.
@@ -29,6 +30,7 @@ def return_actionable_system_message(guideline_instruction):
     - Follow the guideline, not considering standard English grammar.
     - Final sentence should start with '**Transformed Sentence:**'.
     '''
+
 
 
 def return_system_message(guideline_instruction): 
@@ -55,6 +57,7 @@ def return_system_message(guideline_instruction):
     - Follow the guideline, not considering standard English grammar.
     - Final sentence should start with '**Transformed Sentence:**' either with sentence of (No change).
     '''
+
 
 
 def semantic_check(sentence1, sentence2):
