@@ -2,7 +2,6 @@ from torch.utils.data import Dataset
 
 
 
-
 class TestDataset(Dataset):
     def __init__(self, data):
         self.data = data
