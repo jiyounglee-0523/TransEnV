@@ -1,52 +1,3 @@
-from benchmark.mmlu import (
-    load_test_data as mmlu_load_test_data,
-    extract_answer as mmlu_extract_answer,
-)
-from benchmark.gsm8k import (
-    load_test_data as gsm8k_load_test_data,
-    extract_answer as gsm8k_extract_answer,
-)
-from benchmark.arc import (
-    load_test_data as arc_load_test_data,
-    extract_answer as arc_extract_answer,
-)
-from benchmark.hellaswag import (
-    load_test_data as hellaswag_load_test_data,
-    extract_answer as hellaswag_extract_answer,
-)
-from benchmark.truthful_qa import (
-    load_test_data as truthfulqa_load_test_data,
-    extract_answer as truthfulqa_extract_answer,
-)
-from benchmark.winogrande import (
-    load_test_data as winogrande_load_test_data,
-    extract_answer as winogrande_extract_answer,
-)
-
-
-
-# Function definition of each benchmark
-MAIN_FUNCS = {
-    "mmlu": (mmlu_load_test_data, mmlu_extract_answer, 13436, "question"),
-    "gsm8k": (gsm8k_load_test_data, gsm8k_extract_answer, 1319, "question"),
-    "arc": (arc_load_test_data, arc_extract_answer, 1172, "question"),
-    "hellaswag": (hellaswag_load_test_data, hellaswag_extract_answer, 10042, "ctx"),
-    "truthful_qa": (
-        truthfulqa_load_test_data,
-        truthfulqa_extract_answer,
-        817,
-        "question",
-    ),
-    "winogrande": (
-        winogrande_load_test_data,
-        winogrande_extract_answer,
-        1267,
-        "sentence",
-    ),
-}
-
-
-
 # English varieties
 DIALECTS = [
     "aave_rerun",
@@ -90,3 +41,63 @@ ESL = [
     "B_spanish_rerun",
     "B_turkish_rerun",
 ]
+
+
+
+# MMLU
+MMLU_SUBJECTS = [
+            "abstract_algebra",
+            "anatomy",
+            "astronomy",
+            "business_ethics",
+            "clinical_knowledge",
+            "college_biology",
+            "college_chemistry",
+            "college_computer_science",
+            "college_mathematics",
+            "college_medicine",
+            "college_physics",
+            "computer_security",
+            "conceptual_physics",
+            "econometrics",
+            "electrical_engineering",
+            "elementary_mathematics",
+            "formal_logic",
+            "global_facts",
+            "high_school_biology",
+            "high_school_chemistry",
+            "high_school_computer_science",
+            "high_school_geography",
+            "high_school_government_and_politics",
+            "high_school_macroeconomics",
+            "high_school_mathematics",
+            "high_school_microeconomics",
+            "high_school_physics",
+            "high_school_psychology",
+            "high_school_statistics",
+            "human_aging",
+            "human_sexuality",
+            "international_law",
+            "jurisprudence",
+            "logical_fallacies",
+            "machine_learning",
+            "management",
+            "marketing",
+            "medical_genetics",
+            "miscellaneous",
+            "moral_disputes",
+            "moral_scenarios",
+            "nutrition",
+            "philosophy",
+            "prehistory",
+            "professional_accounting",
+            "professional_law",
+            "professional_medicine",
+            "professional_psychology",
+            "public_relations",
+            "security_studies",
+            "sociology",
+            "us_foreign_policy",
+            "virology",
+            "world_religions",
+        ]

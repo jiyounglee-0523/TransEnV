@@ -4,6 +4,10 @@ import ast
 from dotenv import load_dotenv
 from datasets import load_dataset
 
+from torch.utils.data import DataLoader
+
+from registry.benchmark import MMLU_SUBJECTS
+
 
 
 load_dotenv(override=True)
@@ -203,3 +207,28 @@ def extract_answer(outputs):
             raw_outputs.append(text)
             extracted_outputs.append(short)
         return raw_outputs, extracted_outputs
+
+
+
+#  MMLU dataloader
+def mmlu_dataloader(batch_size, rerun_index=None, start_idx=None):
+    test_dataset = load_dataset('cais/mmlu', 'all', split='test')
+    test_dataset = test_dataset.filter(lambda x: x['subject'] in MMLU_SUBJECTS)
+
+    if start_idx is not None:
+        test_dataset = test_dataset.skip(start_idx)
+
+    if rerun_index is not None:
+        test_dataset = test_dataset.select(rerun_index)
+
+    test_loader = DataLoader(test_dataset, batch_size, shuffle=False)
+    
+    return test_loader
+
+
+
+# MMLU custom test_dataset function
+def load_mmlu_test_dataset():
+    test_dataset = load_dataset('cais/mmlu', 'all', split='test', cache_dir=os.environ.get("DATA_DIR", None))
+    test_dataset = test_dataset.filter(lambda x: x['subject'] in MMLU_SUBJECTS)
+    return test_dataset

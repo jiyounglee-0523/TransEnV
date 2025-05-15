@@ -3,6 +3,8 @@ import os
 from dotenv import load_dotenv
 from datasets import load_dataset
 
+from torch.utils.data import DataLoader
+
 
 
 load_dotenv(override=True)
@@ -150,3 +152,19 @@ def extract_answer(outputs):
             raw_outputs.append(text)
             extracted_outputs.append(short)
         return raw_outputs, extracted_outputs
+
+
+
+# GSM8K dataloader
+def gsm8k_dataloader(batch_size, rerun_index=None, start_idx=None):
+    test_dataset = load_dataset('openai/gsm8k', 'main', split='test')
+
+    if start_idx is not None:
+        test_dataset = test_dataset.skip(start_idx)
+
+    if rerun_index is not None: 
+        test_dataset = test_dataset.select(rerun_index) 
+
+    test_loader = DataLoader(test_dataset, batch_size, shuffle=False)
+    
+    return test_loader

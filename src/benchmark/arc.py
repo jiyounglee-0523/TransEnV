@@ -1,9 +1,10 @@
 import re
 import os
 import ast
-
-from datasets import load_dataset
 from dotenv import load_dotenv
+from datasets import load_dataset
+
+from torch.utils.data import DataLoader, Dataset
 
 
 
@@ -143,3 +144,46 @@ def extract_answer(outputs):
             raw_outputs.append(text)
             extracted_outputs.append(short)
         return raw_outputs, extracted_outputs
+
+
+
+# AI2_ARC dataloader
+def arc_dataloader(batch_size, rerun_index=None, start_idx=None):
+
+    class ARCDataset(Dataset):
+        def __init__(self, max_labels=5, pad_value='None'):
+            self.dataset = load_dataset('allenai/ai2_arc', 'ARC-Challenge', split='test')
+
+            if start_idx is not None:
+                self.dataset = self.dataset.skip(start_idx)
+
+            if rerun_index is not None:
+                self.dataset = self.dataset.select(rerun_index)
+
+            self.max_labels = max_labels
+            self.pad_value = pad_value
+
+        def __len__(self):
+            return len(self.dataset)
+
+        def __getitem__(self, idx):
+            sample = self.dataset[idx]
+            choice_text = sample['choices']['text']
+            choice_label = sample['choices']['label']
+            
+            if len(sample['choices']['text']) < self.max_labels:
+                choice_text.extend([self.pad_value] * (self.max_labels - len(choice_text)))
+                choice_label.extend([self.pad_value] * (self.max_labels - len(choice_label)))
+            
+            return {
+                'id': sample['id'],
+                'question': sample['question'],
+                'choices': {'text': choice_text, 'label': choice_label},
+                'answerKey': sample['answerKey']
+            }
+
+    test_dataset = ARCDataset()
+    
+    test_loader = DataLoader(test_dataset, batch_size, shuffle=False)
+
+    return test_loader

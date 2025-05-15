@@ -4,6 +4,8 @@ import ast
 from dotenv import load_dotenv
 from datasets import load_dataset
 
+from torch.utils.data import DataLoader, Dataset
+
 
 
 load_dotenv(override=True)
@@ -144,3 +146,54 @@ def extract_answer(outputs):
             raw_outputs.append(text)
             extracted_outputs.append(short)
         return raw_outputs, extracted_outputs
+
+
+
+# TruthfulQA dataloader
+def truthfulqa_dataloader(batch_size, rerun_index=None, start_idx=None):
+
+    class TruthfulQADataset(Dataset):
+        def __init__(self, pad_value='None'):
+            self.dataset = load_dataset('truthfulqa/truthful_qa', 'multiple_choice', split='validation')
+
+            if start_idx is not None:
+                self.dataset = self.dataset.skip(start_idx)
+
+            if rerun_index is not None:
+                self.dataset = self.dataset.select(rerun_index)
+
+            self.mc1_max_labels = 13
+            self.mc2_max_labels = 20
+            self.pad_value = pad_value
+
+        def __len__(self):
+            return len(self.dataset)
+
+        def __getitem__(self, idx):
+            sample = self.dataset[idx]
+
+            mc1_target_choice = sample['mc1_targets']['choices']
+            mc1_target_labels = sample['mc1_targets']['labels']
+            mc2_target_choice = sample['mc2_targets']['choices']
+            mc2_target_labels = sample['mc2_targets']['labels']
+            
+            if len(sample['mc1_targets']['choices']) < self.mc1_max_labels:
+                mc1_target_choice.extend([self.pad_value] * (self.mc1_max_labels - len(mc1_target_choice)))
+                mc1_target_labels.extend([0] * (self.mc1_max_labels - len(mc1_target_labels)))
+
+            if len(sample['mc2_targets']['choices']) < self.mc2_max_labels:
+                mc2_target_choice.extend([self.pad_value] * (self.mc2_max_labels - len(mc2_target_choice)))
+                mc2_target_labels.extend([0] * (self.mc2_max_labels - len(mc2_target_labels)))
+    
+            
+            return {
+                'question': sample['question'],
+                'mc1_targets': {'choices': mc1_target_choice, 'labels': mc1_target_labels},
+                'mc2_targets': {'choices': mc2_target_choice, 'labels': mc2_target_labels}
+            }
+
+    test_dataset = TruthfulQADataset()
+    
+    test_loader = DataLoader(test_dataset, batch_size, shuffle=False)
+
+    return test_loader

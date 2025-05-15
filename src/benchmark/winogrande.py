@@ -3,6 +3,8 @@ import os
 from dotenv import load_dotenv
 from datasets import load_dataset
 
+from torch.utils.data import DataLoader
+
 
 
 load_dotenv(override=True)
@@ -129,3 +131,19 @@ def extract_answer(outputs):
             raw_outputs.append(text)
             extracted_outputs.append(short)
         return raw_outputs, extracted_outputs
+
+
+
+# Winogrande dataloader
+def winogrande_dataloader(batch_size, rerun_index=None, start_idx=None):
+    test_dataset = load_dataset('allenai/winogrande', split='validation', trust_remote_code=True, name='winogrande_m')
+
+    if start_idx is not None:
+        test_dataset = test_dataset.skip(start_idx)
+
+    if rerun_index is not None:
+        test_dataset = test_dataset.select(rerun_index)
+    
+    test_loader = DataLoader(test_dataset, batch_size, shuffle=False)
+    
+    return test_loader
