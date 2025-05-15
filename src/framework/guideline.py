@@ -38,7 +38,7 @@ def cefr_feature(cefr_level):
 
 def return_guideline(task_config, dataset_name, data_path):
     if (task_config.task_name == 'english_dialect') & (task_config.dialect is not None):
-        file_path = os.path.join(data_path, 'ewave/orig_generated_guideline_wo_example.json')
+        file_path = os.path.join(data_path, 'assets/orig_generated_guideline_wo_example.json')
         guideline = json_load(file_path)
         linguistic_features = dialect_feature(dialect=task_config.dialect.strip("'\""), data_path=data_path)
 
@@ -48,14 +48,14 @@ def return_guideline(task_config, dataset_name, data_path):
         guideline = [(g['feature'][3:-3], g['guideline']) for g in guideline if g['feature'][3:-3] in linguistic_features]
 
     elif (task_config.task_name == 'L1') & (task_config.l1 is not None):
-        l1_file_path = os.path.join(data_path, 'L1_Grammar/python_grammar_error.json')
+        l1_file_path = os.path.join(data_path, 'assets/python_grammar_error.json')
         guideline = json_load(l1_file_path)
         l1_linguistic_features = l1_grammarerror[task_config.l1]
         guideline = [(g['grammar_error'], g['guideline']) for g in guideline if g['grammar_error'] in l1_linguistic_features]
 
 
     elif (task_config.task_name == 'cefr') & (task_config.cefr_level is not None):
-        cefr_file_path = os.path.join(data_path, 'CEFR_Grammar/orig_generated_guideline_wo_example_grammar_error.json')
+        cefr_file_path = os.path.join(data_path, 'assets/orig_generated_guideline_wo_example_grammar_error.json')
         guideline = json_load(cefr_file_path)
         cefr_linguistic_features = cefr_error[task_config.cefr_level]
         guideline = [(g['feature'][1:-1].strip(), g['guideline']) for g in guideline if g['feature'][1:-1].strip() in cefr_linguistic_features]
