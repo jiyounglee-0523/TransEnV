@@ -43,21 +43,21 @@ def return_guideline(task_config, dataset_name, data_path):
         linguistic_features = dialect_feature(dialect=task_config.dialect.strip("'\""), data_path=data_path)
 
         if dataset_name in ['mmlu', 'hellaswag']:
-            linguistic_features = [l for l in linguistic_features if l in dialect_feature_list]
+            linguistic_features = [l for l in linguistic_features if l in DIALECT_FEATURE_LIST]
 
         guideline = [(g['feature'][3:-3], g['guideline']) for g in guideline if g['feature'][3:-3] in linguistic_features]
 
     elif (task_config.task_name == 'L1') & (task_config.l1 is not None):
         l1_file_path = os.path.join(data_path, 'assets/guidelines/python_grammar_error.json')
         guideline = json_load(l1_file_path)
-        l1_linguistic_features = l1_grammarerror[task_config.l1]
+        l1_linguistic_features = L1_GRAMMARERROR[task_config.l1]
         guideline = [(g['grammar_error'], g['guideline']) for g in guideline if g['grammar_error'] in l1_linguistic_features]
 
 
     elif (task_config.task_name == 'cefr') & (task_config.cefr_level is not None):
         cefr_file_path = os.path.join(data_path, 'assets/guidelines/orig_generated_guideline_wo_example_grammar_error.json')
         guideline = json_load(cefr_file_path)
-        cefr_linguistic_features = cefr_error[task_config.cefr_level]
+        cefr_linguistic_features = CEFR_ERROR[task_config.cefr_level]
         guideline = [(g['feature'][1:-1].strip(), g['guideline']) for g in guideline if g['feature'][1:-1].strip() in cefr_linguistic_features]
         
     else:

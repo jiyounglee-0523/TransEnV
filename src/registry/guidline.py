@@ -1,4 +1,4 @@
-l1_grammarerror = {
+L1_GRAMMARERROR = {
     'Arabic': ['IS_THERE_ANY_NNS', 'SHOULD BE ACITVE VOICE', 'COUPLE_OF_TIMES', 'MISSING PREPOSITION', 'ARTICLE NOUN AGREEMENT', 'MISSING VERB', 'SHOULD BE PLURAL', 'MISSING SUBJECT', 'ALL_MOST_SOME_OF_NOUN', 'DETERMINER NOUN AGREEMENT'],
     'French': ['LETS_DONT', 'COUPLE_OF_TIMES', 'REDUNDANT VERB IN QUESTION', 'HAVE_HAVING', 'IS_THERE_ANY_NNS', 'EACH_EVERY_WITH_SINGULAR_NOUN', 'ADMIT_ENJOY_VB', 'MISSING PREPOSITION', 'MISSING VERB', 'ACCORDING_TO_ME'],
     'German': ['SHOULD BE ACITVE VOICE', 'COUPLE_OF_TIMES', 'HAVE_HAVING', 'ADMIT_ENJOY_VB', 'MISSING PREPOSITION', 'WRONG VERB WITH AUXILIARY VERB', 'IRREGULAR_PAST', 'MUCH_COUNTABLE', 'SHOULD BE ADVERB', 'ADVISE_VBG'],
@@ -14,7 +14,7 @@ l1_grammarerror = {
 
 
 # Extracted top 0.1%
-dialect_feature_list = [
+DIALECT_FEATURE_LIST = [
     'Like as a focussing device',
     'Use of definite article where StE has indefinite article',
     'Use of definite article where StE favours zero',
@@ -63,7 +63,7 @@ dialect_feature_list = [
 
 
 
-cefr_error = {
+CEFR_ERROR = {
     'A': [
         'Can end a reported question clause and a relative clause with a preposition, where the preposition is stranded from its complement. ► Clauses: relative',
         'Can form complex noun phrases by using adjective phrases as postmodifiers to give more information about the noun.',
@@ -107,129 +107,4 @@ cefr_error = {
         'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
         'Can use verb + particle + preposition, where the preposition is separated from its complement. ► Prepositions'
     ]
-}
-
-
-
-cefr_error_dataset = {
-    "mmlu": {
-        "A": [
-            "Can use the '–ed' form of a verb as an adjective, after a noun.",
-            "Can use defining relative clauses and non-defining relative clauses ending in a preposition, with 'who/which/that' as the complement of the preposition.",
-            "Can use ''s' after a noun phrase with of to indicate possession.",
-            "Can use 'can be' to talk about general truths and tendencies.",
-            "Can form complex noun phrases with noun phrase + 'of' + noun phrase + possessive determiner ''s' + noun phrase.",
-            'Can form complex noun phrases by using adjective phrases as postmodifiers to give more information about the noun.',
-            "Can use the passive with 'it' as a dummy subject, to summarise or evaluate in discussions, usually in formal or academic writing.",
-            'Can use the affirmative forms with a range of pronouns and nouns and an increasing range of verbs.',
-            'Can end a reported question clause and a relative clause with a preposition, where the preposition is stranded from its complement. ► Clauses: relative',
-            'Can use a wide range of complex prepositions.',
-            'Can use less frequent simple prepositions, often in a more formal, literary or business context.',
-            'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
-            'Can use fixed expressions in the front position for focus.',
-            "Can use 'It' + 'be' + noun + 'that' clause for focus."],
-        "B": [
-            "Can use the '–ed' form of a verb as an adjective, after a noun.",
-            "Can use a non-finite subordinate clause with an '-ed' form, before a main clause, to give focus.",
-            "Can use 'that' and 'those' to convey emotional distance, often to express disapproval.",
-            "Can use 'not necessarily' to express a possible exception to a general perception, i.e. not in every case.",
-            "Can form complex noun phrases with 'little or no' + noun.",
-            "Can use a passive non-finite '-ing' form as a subordinate clause or a noun clause to give explanatory background information.",
-            "Can use the passive with 'it' as a dummy subject, to summarise or evaluate in discussions, usually in formal or academic writing.",
-            'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
-            'Can use the negative question form as a persuasion strategy.',
-            'Can use verb + particle + preposition, where the preposition is separated from its complement. ► Prepositions',
-            'Can use fixed expressions in the front position for focus.',
-            "Can use 'The' + premodifier + 'thing, fact, point, problem or reason' + 'is (that)' for focus.",
-            "Can use 'It' + 'be' + noun + 'that' clause for focus."
-        ],
-        'B': [
-            "Can use the '–ed' form of a verb as an adjective, after a noun.",
-            "Can use 'that' and 'those' to convey emotional distance, often to express disapproval.",
-            "Can use 'not necessarily' to express a possible exception to a general perception, i.e. not in every case.",
-            "Can use the past simple with 'did' for emphasis.",
-            'Can use question forms to ask rhetorical questions.',
-            'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
-            'Can use fixed expressions in the front position for focus.',
-            "Can use 'It' + 'be' + noun + 'that' clause for focus.",
-        ]
-    },
-    "arc": {
-        "A": [
-            'Can use adjective phrases to modify nouns.',
-            'Can use adjective phrases attributively, before a noun.',
-            "Can use ''s' after a noun phrase with of to indicate possession.",
-            "Can use 'can be' to talk about general truths and tendencies.",
-            'Can end a reported question clause and a relative clause with a preposition, where the preposition is stranded from its complement. ► Clauses: relative',
-            "Can use 'these ones', 'those ones' as a substitute for plural countable nouns which have already been mentioned or are obvious from the context.",
-            'Can use fixed expressions in the front position for focus.',
-        ],
-        "B": [
-            'Can use fixed expressions in the front position for focus.',
-        ]
-    },
-    "gsm8k": {
-        "A": [
-            "Can use ''s' after a noun phrase with of to indicate possession.",
-            "Can form complex noun phrases with noun phrase + 'of' + noun phrase + possessive determiner ''s' + noun phrase.",
-            "Can use the past simple with 'did' for emphasis.",
-            'Can use the affirmative forms with a range of pronouns and nouns and an increasing range of verbs.',
-            'Can use fixed expressions in the front position for focus.',
-        ],
-        "B": [
-            "Can use 'shall' in the main clause after an 'if-' clause  ► conditionals",
-            "Can use the past simple with 'did' for emphasis.",
-            "Can use the possessive pronouns 'hers', 'theirs' and 'his' after noun + 'of'.",
-            "Can use 'each' (+ noun or pronoun) as subject followed by 'the other(s)' as object , to refer to two related things. ► pronouns: quantity",
-            'Can use fixed expressions in the front position for focus.',
-            "Can use 'It' + 'be' + noun + 'that' clause for focus.",
-        ]
-    },
-    "hellaswag": {
-        'A': [
-            "Can use 'plus' to connect clauses and sentences, often to point out a positive addition or advantage.",
-            'Can end a reported question clause and a relative clause with a preposition, where the preposition is stranded from its complement. ► Clauses: relative',
-            'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
-            "Can use 'these ones', 'those ones' as a substitute for plural countable nouns which have already been mentioned or are obvious from the context.",
-            'Can use an adverb between the verb and the preposition.',
-            'Can use phrasal verbs + nouns as object + particle.',
-            "Can introduce a new subject before the '-ing' form (using noun or object pronoun).",
-            'Can use fixed expressions in the front position for focus.',
-        ],
-        'B': [
-            "Can use the '–ed' form of a verb as an adjective, after a noun.",
-            "Can use a non-finite subordinate clause with an '-ed' form, before a main clause, to give focus.",
-            'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
-            'Can use verb + particle + preposition, where the preposition is separated from its complement. ► Prepositions',
-            'Can use fixed expressions in the front position for focus.',
-        ]
-    },
-    'truthfulqa': {
-        'A': [
-            "Can use ''s' after a noun phrase with of to indicate possession.",
-            "Can form complex noun phrases with noun phrase + 'of' + noun phrase + possessive determiner ''s' + noun phrase.",
-            'Can end a reported question clause and a relative clause with a preposition, where the preposition is stranded from its complement. ► Clauses: relative',
-            'Can use fixed expressions in the front position for focus.',
-        ],
-        'B': [
-            "Can use 'may well' to give emphasis to something unexpected.",
-            'Can use the negative question form as a persuasion strategy.',
-            'Can use fixed expressions in the front position for focus.'
-        ],
-    },
-    'winogrande': {
-        'A': [
-            'Can modify an increasing range of adverbs with other adverbs.► adverbs and adverb phrases: types and meanings',
-            "Can use the past simple with 'did' for emphasis.",
-            'Can end a reported question clause and a relative clause with a preposition, where the preposition is stranded from its complement. ► Clauses: relative',
-            'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
-            'Can use fixed expressions in the front position for focus.',
-            "Can use a non-finite subordinate clause with an '-ed' form, before a main clause, for focus, often in formal, academic or business contexts.",
-        ],
-        'B': [
-            "Can use the past simple with 'did' for emphasis.",
-            'Can use the present continuous with verbs that are not usually used in this form to make statements and requests sound less direct.',
-            'Can use fixed expressions in the front position for focus.',
-        ],
-    }
 }
