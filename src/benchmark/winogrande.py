@@ -5,6 +5,8 @@ from datasets import load_dataset
 
 from torch.utils.data import DataLoader
 
+from utils import log
+
 
 
 load_dotenv(override=True)
@@ -78,7 +80,7 @@ def load_test_data(args):
             data_size += 1
 
     if data_size != expected_data_size:
-        print(f"Expected {expected_data_size} Winogrande examples but got {data_size} examples.")
+        log(f"Expected {expected_data_size} Winogrande examples but got {data_size} examples.", level="error")
         exit()
 
     return preprocess(dataset, args)
