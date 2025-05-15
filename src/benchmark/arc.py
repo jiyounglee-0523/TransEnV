@@ -50,7 +50,7 @@ def load_arc(args):
         "allenai/ai2_arc",
         "ARC-Challenge",
         split="test",
-        cache_dir=os.environ.get("DATA_DIR"),
+        cache_dir=os.environ.get("DATA_DIR", None),
     )
     dataset = preprocess(dataset, args)
     return dataset

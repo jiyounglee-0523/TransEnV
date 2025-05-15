@@ -44,7 +44,7 @@ def load_hellaswag(args):
         "Rowan/hellaswag", 
         "default", 
         split="validation",
-        cache_dir=os.environ.get("DATA_DIR"),
+        cache_dir=os.environ.get("DATA_DIR", None),
     )
     dataset = preprocess(dataset, args)
     return dataset

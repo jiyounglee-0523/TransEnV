@@ -105,7 +105,7 @@ def load_mmlu(args):
         "cais/mmlu",
         "all",
         split="test",
-        cache_dir=os.environ.get("DATA_DIR"),
+        cache_dir=os.environ.get("DATA_DIR", None),
     )
     # remove history
     dataset = dataset.filter(lambda x: x['subject'] in mmlu_subjects_to_load)

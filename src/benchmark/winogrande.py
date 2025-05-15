@@ -41,7 +41,7 @@ def load_winogrande(args):
         "allenai/winogrande",
         "winogrande_xs",
         split="validation",
-        cache_dir=os.environ.get("DATA_DIR"),
+        cache_dir=os.environ.get("DATA_DIR", None),
     )
     dataset = preprocess(dataset, args)
     return dataset

@@ -51,7 +51,7 @@ def load_truthful_qa(args):
         "truthfulqa/truthful_qa",
         "multiple_choice",
         split="validation",
-        cache_dir=os.environ.get("DATA_DIR"),
+        cache_dir=os.environ.get("DATA_DIR", None),
     )
     dataset = preprocess(dataset, args)
     return dataset

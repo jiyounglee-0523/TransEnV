@@ -46,7 +46,7 @@ def load_gsm8k(args):
         "openai/gsm8k", 
         "main",
         split="test",
-        cache_dir=os.environ.get("DATA_DIR"),
+        cache_dir=os.environ.get("DATA_DIR", None),
     )
     dataset = preprocess(dataset, args)
     return dataset
