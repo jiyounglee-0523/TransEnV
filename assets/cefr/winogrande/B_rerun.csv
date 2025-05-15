@@ -1,0 +1,1248 @@
+sentence,option1,option2,answer
+"""Sarah was a much better surgeon than Maria so did get the easier cases.""",Sarah,Maria,2
+Sarah was a much better surgeon than Maria so  <blank> did get the harder cases.,Sarah,Maria,1
+"""They may well have been worried the wine would ruin the bed and the blanket, but the <blank> wasn't ruined.""",blanket,bed,2
+Terry did try to bake the eggplant in the toaster oven but the  _ was too big.,eggplant,toaster,1
+Isn't Jeffrey always staying up later than Hunter to watch TV because he is waking up late?,Jeffrey,Hunter,1
+"""The cat of Sarah has some mouth problems, so she takes it to see Maria. Sarah is being a responsible cat owner.""",Sarah,Maria,1
+"""Wasn't the home that my parents had when I was in school a lot nicer than that house now because the <blank> was sophisticated?""",home,house,1
+Wasn't the house that my parents had when I was in school a lot nicer than the house now because the <blank> is being trashy?,home,house,2
+"Natalie has a rich husband and lots of money, Jennifer is poor being needing to make her clothes.",Natalie,Jennifer,2
+"""Bakery that had a limited supply of what he wanted, Joe immediately went to before the bank.""",bakery,bank,1
+"""Joe immediately went to bakery before the bank because the _ had a substantial supply of what he wanted.""",bakery,bank,2
+"""I had to read an entire story for class tomorrow. Luckily, the _ was canceled.""",story,class,2
+I had to read an entire story for class tomorrow.  The story read was short.,story,class,1
+He had enough time between classes to go to a cafe or to the library. He went to the _ because his paper could wait.,cafe,library,1
+He had enough time between classes to go to a cafe or to the library. He went to the _ because his paper was due soon.,cafe,library,2
+Isn't Lindsey liking to read graphic novels but Natalie is liking classic literature to read. _ bought the new Frank Miller comic at the book store?,Lindsey,Natalie,1
+"""Wheels that were new and perfect Michael did buy for his truck unlike Leslie because.""",Michael,Leslie,2
+"""Frankly, Michael did buy brand new wheels for his truck unlike Leslie because wheels were old and used.""",Michael,Leslie,1
+"""Neil was not nervous around parrots since _ was bitten by a bird early in life.""",Leslie,Neil,1
+"""Christmas was a special holiday to Eric but Adam since <blank> was a Jew.""",Eric,Adam,2
+"""To make frosting I am needing pudding that was at a store 15 minutes away but pre-made frosting was at a store 5 minutes away. The _ was closer.""",pudding,frosting,2
+"""Benjamin was chosen instead of Brett to be the makeup artist for the play. They were less experienced.""",Benjamin,Brett,2
+"Cynthia, because _ had too much passivity with other people, did violate the rights of Amy.",Cynthia,Amy,2
+"""They had to eat a lot to gain the strength they had lost and be able to work, the _ was too much.""",work,strength,1
+They had to eat a lot to gain strength and be able to work because the amount was too little.,work,strength,2
+"The roof of Rachel's home is old and falling apart, while Betty's is new. The home value of _ is lower.",Rachel,Betty,1
+The portions of food today were bigger than the sizes yesterday because more people did feed.,Leslie,Derrick,1
+"""Frankly, Craig was environmentally irresponsible since Benjamin recycled.""",portions,sizes,1
+"""Christine was going to Jessica's house to do some cleaning in the kitchen, because <blank> was an energetic person.""",Craig,Benjamin,1
+"The students were at their desks taking tests with pencils, they used the _ to hold the papers.",desks,pencils,1
+Mary is thinking poodles were a cool dog but Rachel is thinking Great Danes were cooler. _ bought a small dog bed for they.,Mary,Rachel,1
+"In fact, Mary is thinking poodles were a cool dog but Rachel is thinking Great Danes were cooler. _ bought a gigantic dog bed for their pet.",Mary,Rachel,2
+"Leslie had a lot of issues that Kyle was tired of dealing with, so _ felt abandoned when they finally moved out.",Mary,Rachel,2
+"Jessica and Betty did enjoy a simple, basic life with <blank> but were bored having a quiet existence?",Leslie,Kyle,1
+"""Aren't I wanting to build a bathroom on the third floor of the house but I couldn't because the <blank> would be too full?""",bathroom,floor,2
+"""Joel did research laws and did help to open a preschool for Eric. Isn't he good with kids?""",Joel,Eric,2
+"Tanya told Emily she couldn't come to work because her cat had an infection, but she is lying.",Tanya,Emily,1
+"Angela is thinking her husband may well be cheating with Lindsey, and confesses at the dinner party.",Angela,Lindsey,2
+"""Donald's understanding good of math isn't as good as Joseph, so _ may well be a professor.""",Donald,Joseph,2
+"""Wasn't Brian jealous of Brett's new car because they couldn't afford to buy a new car?""",Brian,Brett,1
+The man did use his eyes to read the letters but the <blank> were too small.,letters,eyes,1
+"""Jill was on a budget so she only bought a new dress for the ceremony and wore an old hat. She did figure it would be less noticeable.""",dress,hat,2
+Jill was on a budget so she only bought a new dress for the ceremony and wore an old hat. She figured the  <blank> would be more noticeable.,dress,hat,1
+"On Monday, Patricia did make Felicia eggs for an early breakfast, but Felicia does not like fried eggs.",dress,hat,1
+"Craig wears clear contacts and William wears colored colored ones, _ is loving the color of them.",Patricia,Felicia,2
+"""_ dislikes the color of their eyes.""",Craig,William,1
+"""It was easy for Angela to become a vegetarian although Kayla couldn't do it. Kayla  missed the taste of chicken really.""",Craig,William,2
+Hunter was a better baker than Logan so <blank> did make the kitchen a mess when they tried to make an apple pie.,Hunter,Logan,2
+"""Tanya spent more on the children's birthday party than Amy. I thought a magician was a good use of funds.""",Hunter,Logan,2
+"""Judy did buy new brushes to paint the etched glasses crack but it didn't fit. The  _ was too wide.""",brush,crack,1
+Judy did buy new brushes to paint the etched glasses crack but it didn't fit. The _ was too narrow.,brush,crack,2
+"""I am looking forward really to the Sunday newspaper so I can look at the comics. This is the only reason I am still getting the in this day and age.""",newspaper,comics,1
+"""Natalie did go to bed early and got a good night's rest, Jennifer was more of a morning person than Natalie.""",Jennifer,Natalie,2
+"""Jennifer and Natalie, the former always going to bed early and getting a good night's rest, was more of a morning person than the latter.""",Jennifer,Natalie,1
+"""Alcohol is a love of Matthew's, but Ryan may well not stand the stuff because _ is a sober alcoholic.""",Jennifer,Natalie,1
+Joe did bring the horse out to the country quite a distance and did give him food but the <blank> was too much.,food,distance,2
+"Randy did give their heart to Brian, and soon did tell them that they should have kept their heart to themselves.",Randy,Brian,2
+"""Disappointed Nick is wanting to play a game on the floor, but Dennis did hesitate because of his knees.""",Nick,Dennis,1
+"""Monica was welcomed into the church by Samantha because she was a guilty criminal prosecuted""",Monica,Samantha,1
+"The battle was less fierce than the great war, because it did last one year.",battle,war,2
+"Laura used too much super glue on Erins hands, so they did need to get to the doctor to separate their hands.",Laura,Erin,2
+"""Didn't James panic when his phone fell on the table thinking it will break but the table may well be soft?""",phone,table,2
+"""Thinking it will break, James did panic when his phone fell on the table but the <blank> is strong.""",phone,table,1
+"""John cannot touch the cup. It was just brought out of the refrigerator. He wanted some air to blow around it. The  is very warm.""",cup,air,2
+"""The fireman used several rags to polish the nozzles on the fire hose. When he was done, they were dirty.""",cup,air,2
+"Mary is wanting to get another piercing in her ears, but the <blank> was much too tiny.",ear,piercing,1
+"Mary is wanting to get another piercing in her ear, but the  was much too huge.",ear,piercing,2
+Laura is loving the taste of green beans but Felicia is hating the taste of they.,ear,piercing,2
+"""Didn't the bartender cut Carrie off completely but continue to serve Emily because she was too drunk?""",Laura,Felicia,2
+Blaze always wore a t-shirt instead of a shirt because he is thinking that the <blank> is stuffy and old fashioned.,shirt,t-shirt,1
+"""The <blank> would melt in the sun, so we used a varnish instead because the paint was susceptible to heat.""",shirt,t-shirt,1
+""" I did try to make mini lamps, but did have to get larger jars because the _ were too big.""",glow sticks,jars,1
+"""Joel is always liking to turn the heater up higher than Joseph, <blank> was never cold.""",Joel,Joseph,2
+"""Isn't Joel always liking to turn the heater really up higher than Joseph did because <blank> is always cold?""",Joel,Joseph,1
+"""The teen found the new hat was no substitute for his cool shirt. The _ was just cool to wear to school.""",hat,shirt,2
+Mary was helping Patricia's daughter put on makeup but  _ is watching a lot of makeup tutorials.,Mary,Patricia,2
+"""Mary because she is watching a lot of makeup tutorials was helping Patricia's daughter put on makeup.""",Mary,Patricia,2
+"He is wanting to kill time at the house instead of the playground, because everyone at the <blank> is fun.",playground,house,2
+"Aaron didn't know Dennis had a peanut allergy, so when <blank> did make up suddenly peanut chicken an ambulance was called.",Aaron,Dennis,1
+"""Aaron wasn't knowing Dennis had a peanut allergy, so when Aaron and Dennis ate peanut chicken an ambulance was called.""",Aaron,Dennis,2
+"""God is liking to control the day and the night, but the _ was too bright.""",day,night,1
+"""Brett did ask Joel for advice and guidance about waxing his mustache, and isn't he feeling burdened?""",Brett,Joel,2
+Doesn't the filter in the living room need to be changed more often because the <blank> is dirtier?,Brett,Joel,2
+Aren't the filters in the living room needing to be changed more often than the ones in the bedroom because the <blank> is cleaner?,living room,bedroom,2
+"""Didn't Amy go over quickly to the waiting room at the hospital to calm Samantha because <blank> is being placid?""",Amy,Samantha,1
+"""Didn't Megan forget to buy deodorant at the store so they did borrow Jessica's deodorant and never did find out?""",Megan,Jessica,2
+"""Megan forgot to buy deodorant at the store so they may well have borrowed Jessica's deodorant and hoped they never found out.""",Megan,Jessica,1
+"Amy is thinking she was the mirror image of Natalie, but could not be convinced to see the similarity.",Amy,Natalie,2
+"""Amy is thinking she is the mirror image of Natalie, but may well not persuade her to see the similarity.""",Amy,Natalie,2
+"""I helped my sister find her gold necklace. She couldn't wear her woven necklace because the woven was so casual.""",Amy,Natalie,1
+"Emily never had as much money to spend as Carrie, because  _ had a good job.",Emily,Carrie,2
+"""Isn't that material that is cheaper the reason the wooden doors at my friend's work are worse than the wooden desks at my work?""",doors,desks,1
+"The wooden doors at my friends work are being worse than the wooden desks at my work, because the material is being stronger.",doors,desks,2
+The arrow stuck to the bark but not the stone because the <blank> was hard.,doors,desks,2
+The leg of the pig body stuck out of the grave where it was buried because the _ is large.,body,grave,1
+"""The shee recovered can easily be hiding between the space in the door. The _ is thin.""",sheet,space,1
+"""The sheet can easily be hiding between the space in the door. The  _ is being wide.""",sheet,space,2
+Isn't Mike liking the table in his living room as much as the couch? The _ resonates with the other decorations.,table,couch,2
+Steven is believing they can buy happiness but Craig is thinking otherwise as may well be very realistic.,Steven,Craig,2
+Steven may well be believing they can buy happiness but Craig thinks otherwise as <blank> is very materialistic.,table,couch,2
+They brought the cornhole supplies to the camp site so they could play while adults cooked dinner. The boys really enjoyed the played after the game.,Steven,Craig,2
+"""The game of chess was easy to play for Angela but not Rebecca because she had an analytical mind.""",Angela,Rebecca,1
+"Angela and Rebecca had different experiences with the game of chess: it was easy for Angela but not for Rebecca, who lacked an analytical mind.",Angela,Rebecca,2
+"""He used the credit card rather than cash to pay for dinner. The cash was not available.""",cash,card,1
+"""Didn't the plan fail as <blank> did not really try?""",Angela,Rebecca,2
+"""Since the diabetic woman had to limit her sugar intake, she did ignore the pie and did have a cookie instead because the <blank> was full of sugar.""",pie,cookie,1
+"""The patient refused the doctor's offer to treat his illness quickly with surgery or slowly with diet because he felt it was dangerous.""",diet,surgery,2
+"""Throughout the practice Rachel pushed the really limits of Megan to get ready for the game because  _ was the coach.""",pie,cookie,1
+Rachel pushed the limits of Megan to get ready for the game because <blank> was the athlete.,Rachel,Megan,2
+"""Sarah because excelled at angering other people was quickly promoted to manager over Kayla.""",Sarah,Kayla,2
+"Brett and Randy used different methods to find information; Brett browsed the internet, while Randy preferred using books.",Brett,Randy,2
+"""Don't Dennis and Jeffrey know Jeffrey is an animal lover and wants to go to the zoo to see them?""",Sarah,Kayla,2
+"Betty did drink chocolate shakes while Elena drank carrot juice, and <blank> had a very healthy diet.",Brett,Randy,2
+"""Betty did drink chocolate shakes while Elena drank carrot juice, and had a very unhealthy had diet.""",Betty,Elena,1
+Carrie is receiving an offer they have to decline because the <blank> is valuable. She posted their sofa for sale on Craigslist.,offer,sofa,2
+"""I did pick up some leaves to put quickly in the books and dry them, but they didn't fit because the books were too small.""",leaves,books,2
+"""Picked some leaves up really to put in the books and dry, I, but they didn't fit because the <blank> were too massive.""",leaves,books,1
+The president had their speech at the auditorium rather than the park because the <blank> was bigger.,auditorium,park,1
+The president had their speech at the auditorium rather than the park because the _ was smaller.,auditorium,park,2
+"""When Steven found that their T-shirt had shrunk in the laundry, Robert's first reaction was to laugh, and then he became extremely angry.""",Steven,Robert,1
+"""Their T-shirt shrunk. When Steven found that, Robert's first reaction was to laugh, and he may well be becoming apologetic to each other.""",auditorium,park,2
+"""She counted her calories for her diet and found she is needing more so she ate a brownie instead of an apple since the <blank> has fewer.""",apple,brownie,1
+"In fact, Felicia liked wearing glasses more than braces because she did take the _ off after two years.",glasses,braces,2
+Isn't Felicia liking wearing glasses more than braces because she could take them off every day?,glasses,braces,1
+"""Randy's hair is dry when compared to Ian's due to _ using a strong conditioner.""",Randy,Ian,2
+"""Wasn't it surprising that <blank> was the one with a restraining order against him?""",glasses,braces,1
+"""Adam was law-abiding and not a crook like Joseph, so it was surprising that <blank> restrained was the one with a restraining order against him.""",Randy,Ian,2
+"""Weren't the wages lower than the wages at the plant since it may well be more safe to work at the <blank>?""",Adam,Joseph,2
+"""The health of Joel is being stronger than that of William being a cigar smoker.""",Adam,Joseph,1
+"""Because  had taken woodshop in school, it was easy for Amy but not Rachel to create a meal.""",Amy,Rachel,2
+"Ann's babies were crying, and she could give them a bottle or a rattle. She tried the _ first in case they were bored.",bottle,rattle,2
+"""Samantha liked horror movies better. She rented Saw from Redbox.""",Amy,Rachel,2
+"""The house of Aaron took some damage from the storm but not Michael's house because he is farther really away.""",Aaron,Michael,2
+"""Jennifer did drag Felicia along quickly to a self-help workshop about how to succeed, because _ wanted some company.""",Jennifer,Felicia,1
+"""Mary can read the clock in the room at night without the light even though the _ is dark.""",clock,room,2
+"Logan reads a lot, while Donald almost never picks up a book because <blank> is being a plumber.",Jennifer,Felicia,1
+"Logan reads a lot, while Donald almost never picks up a book because _ is being a student.",Logan,Donald,1
+"""Kyle is wanting to crush Ryan's dreams of becoming a movie actor. He is a threat.""",Kyle,Ryan,2
+"The wind during the last hurricane did try to knock over their new house, but the  _ was too strong.",house,wind,1
+"""Didn't Betty make the choice to reduce Samantha's salary after <blank> started cutting back seriously on efficiency?""",Kyle,Ryan,2
+Didn't Maria pull Rebecca away from the minefield since she was a civilian?,house,wind,1
+"""The jewelry sold for less than the baseball card did since the  _ was very common.""",card,jewelry,2
+"""Didn't Laura bring extensions to Monica at the salon, so <blank> could get their dreads treated professionally?""",Laura,Monica,1
+"""Didn't Laura bring extensions to Monica at the salon, so <blank> could treat their dreads professionally?""",Laura,Monica,2
+"""Installation process was simpler for the cable over the internet because the man had never installed the _ previously.""",Laura,Monica,1
+"""Wasn't the installation process simpler for the cable over the internet because the man had already installed the _ previously?""",cable,internet,1
+"""Didn't they ask not to do it alone, Jessica is wanting to very much help Mary them decorate their new house?""",Jessica,Mary,2
+William went on the ride more than Matthew did because <blank> is thinking it was scary.,cable,internet,1
+"""Didn't she take Monica to a wood shack in the mountains, because she may be being a kidnapper trying to hide?""",Megan,Monica,1
+"At the beauty salon, Angela is preferring to work on her eyebrows instead of her eyelashes because the <blank> were already worked on.",William,Matthew,2
+"""Didn't Samuel try unsuccessfully to get Brett to skip school because Brett was a truant that didn't follow the rules?""",Megan,Monica,1
+"Kayla prepared a foot soak bath for Cynthia for their birthday, and Kayla poured in water.",Kayla,Cynthia,1
+"The man did look at the sundial. Having lost the _, a watch or clocktower was not at his disposal.",watch,clocktower,1
+"""<blank> did not choose to eat a banana for breakfast every morning because unconcerned about <blank> health.""",Kayla,Cynthia,1
+"The IRS did send Tim a letter informing him of the audit, which could occur at the house or the office. Tim chose a comfortable setting comfortable of the _.",office,house,2
+"""Patricia decided to buy Felicia dinner because they had been through a lot and just inherited some money.""",Patricia,Felicia,1
+"""Patricia decided to buy Felicia dinner because they had been through a lot and did lose some money.""",Patricia,Felicia,2
+"""Isn't Sarah thinking that Elena is overpacking for Hawaii, because they have a very full suitcase?""",Patricia,Felicia,1
+William is liking to be outside more than Kyle so <blank> spent time arguing against getting a pool.,William,Kyle,2
+William liking to be outside more than Kyle so spent time arguing for getting a pool?,William,Kyle,1
+"""John never mentioned his canoe, but did have a long conversation with Ron about the raft, because John may well not need the _.""",William,Kyle,2
+"Monica gives Jessica a book about posture, because Jessica is trying to get better at ballet dancing.",Monica,Jessica,2
+"""My gun was inspected with a cloth to make sure it worked fine. The _ was hard.""",cloth,gun,2
+"""My gun was inspected with a cloth carefully to make sure it worked fine. The _ was soft.""",cloth,gun,1
+"""At the estate sale, John did see the hammer used was more affordable than the screwdriver, because the  _ was used.""",cloth,gun,2
+"At the estate sale, John saw the hammer and screwdriver were more affordable because _ was brand new.",cloth,gun,1
+"""Isn't the temperature in winter much different than summer, the <blank> always being lower?""",hammer,screwdriver,1
+The sliding glass door  _ broken because _ is a pushover when Eric pushed Ian through it.,hammer,screwdriver,2
+"""The woman did use a gentle technique when painting the urn but is needing more pressure really to the vase, because it was less fragile.""",Urn,Vase,2
+"The woman did use a gentle technique when painting the urn, but is needing more pressure rather to the vase because the <blank> was more fragile.",Urn,Vase,1
+"""Tina did make a schedule to keep track of her work and school obligations. She is wanting to learn.""",Urn,Vase,2
+"""Jessica is wanting to protect herself from infectious diseases so she goes to doctor careful Samantha, because she is careful.""",Jessica,Samantha,1
+Kerry was running later when he took his car to work than when he took a taxi because he ran really into more traffic in the <blank>.,car,taxi,1
+The history of the village is more intriguing than the history of the city because the <blank> is very new.,village,city,2
+"""Rachel did tell Patricia to pick really up some baby powder at the store because _ had sweaty feet.""",Rachel,Patricia,1
+"""Rachel told Patricia to pick quickly up some baby powder at the store but Rachel may well have sweaty feet too.""",Rachel,Patricia,2
+"""Neil looked all over really the neighborhood for their missing dog until Samuel called and they did get their dog back.""",Neil,Samuel,1
+"""I did not buy the color pink rose flowers for my wedding because the <blank> is being too bright.""",color,wedding,1
+"""Frankly, I did play in the garage and sometimes my room, but my parents preferred knowing I was in the  _  .""",garage,room,1
+"""That's because Rebecca is being trained as a tree cutter.""",color,wedding,1
+"The sand and water in the fish tank were very dirty, so the _ needed to be filtered.",water,sand,1
+"""The sand and water in the fish tank were very dirty, so the tank needs scrubbing.""",water,sand,2
+"""Warts did appear on Jerry's arms and legs after he went through the jungle because the warts were infectious.""",warts,limbs,1
+"Pete is preferring to use the sheet to the blanket, because the <blank> was much hotter.",sheet,blanket,2
+"She is preferring a globe of the world made of PVC instead of plastic, because the <blank> made it look expensive.",plastic,PVC,2
+"""Rebecca that people think is embarrassing because Samantha made snide comments about the shirt she was wearing.""",Samantha,Rebecca,2
+Adam's mindset was a lot stronger than William's because <blank> is able to controlling it.,Adam,William,1
+"At the beach, Emily collected some seashells for her mother Maria. _ is polishing the seashells before giving them away.",Emily,Maria,1
+"""Using a needle to sew together both the leather and silk is being difficult. The _ is being hard get through.""",leather,silk,1
+"""The maid did take away a cozy blanket really from Lawrence but not Nick because Nick was very hot.""",Lawrence,Nick,1
+"""The maid did take away a cozy blanket quickly from Lawrence but not Nick because Nick was very cold.""",Emily,Maria,1
+"""The photo did come out of the Polaroid camera and did fall onto the tray, so now the <blank> lightened is lighter.""",camera,tray,1
+Brett asked Nelson where they were because he had no idea.,Lawrence,Nick,1
+"""Nelson had been driving after he fell asleep, Brett asked Nelson where they were.""",Lawrence,Nick,2
+"""Leslie did cough more when they were eating their food than Adam although there was more seasoning in the food of they.""",camera,tray,1
+"""Craig gifted Eric a new picnic table because he borrowed some money a while ago.""",Craig,Eric,1
+Craig gifted Eric a new picnic table because some money had been lent.,Brett,Nelson,2
+"""Wasn't Victoria eager to make the big sale to Sarah, as <blank> needed the money that day?""",Victoria,Sarah,1
+"Victoria was eager to make the big sale to Sarah, had the money that day.",Craig,Eric,1
+"""Randy known to be on American Idol, Robert did take voice lessons from.""",Robert,Randy,2
+"""Whilst on the beach Cynthia is loving to wear a bikini but Laura did not because _ had a flat stomach.""",Cynthia,Laura,1
+"""Laura did not wear a bikini because she had a fat stomach.""",Victoria,Sarah,2
+Paint was applied to the chairs but not the tables since the <blank> were new.,chairs,tables,2
+"""Paint was applied to the chairs but not the tables, since they were old.""",chairs,tables,1
+"""Matthew was most popular among the teachers as Steven was among the students, _ was liked by adolescents.""",Matthew,Steven,2
+The shoe James bought was pinched really by a nail. While jogging because the <blank> is soft.,shoe,nail,1
+"""Lawrence is liking watching foreign movies with subtitles unlike Jason because Jason criticized the original language of it.""",Lawrence,Jason,2
+"""Lawrence is liking watching foreign movies with subtitles unlike Jason because he appreciated the original language of the film.""",Lawrence,Jason,1
+The fishing line snagged and broke on a rock because the <blank> was too heavy.,fishing line,rock,2
+"""Johnny is liking fruits more than vegetables saccharined in the new keto diet because they are saccharine.""",fruits,vegetables,1
+Victoria was still grieving the death of a friend more than Elena because _ had a more distant relationship with the friend.,Victoria,Elena,2
+"Grieving, Victoria was still grieving the death of a friend more than Elena because she had a very close relationship with the friend.",Victoria,Elena,1
+"""The bill had extra charges for past due and hookup I owe really for being a new customer.""",past due,hookup,2
+"""Cynthia had a much harder life than Amy, so when <blank> said life was good, it was an unusual sentiment.""",Cynthia,Amy,1
+"""Experienced by the hardship of life, Ian's courage was a lot stronger than Michael's.""",Victoria,Elena,1
+"""The chef did fry less mushrooms than tomatoes because them were ordered frequently at the restaurant.""",mushrooms,tomatoes,2
+"""Lawrence did deal the cards to Joseph at the blackjack table because he is being a professional player.""",Lawrence,Joseph,2
+"""You can grow cilantro in a garden or buy it at the store, but varieties may well be tasting bland because they will be older.""",garden,store,2
+"""You can grow cilantro in a garden or buy it at the store, but the variety will taste better because it will be fresh.""",garden,store,1
+Samantha did follow their diet while Sarah did eat what they were feeling - chicken and broccoli all week.,Samantha,Sarah,1
+"""It would be more likely that Brett would wear a fedora rather than Justin because he was known to dress stylishly.""",Brett,Justin,1
+"""Because Justin did not often dress stylishly, it may well be Brett who would wear a fedora rather than Justin.""",garden,store,1
+"""Didn't Adam mind about very much if it took them a while to prepare a meal because <blank>?""",Samantha,Sarah,1
+"""The wall paintings of the house look nicer than the one in the garage despite the  _  painting more recently.""",Brett,Justin,1
+"""Kevin ate large amounts of food but not Adam. didn't have to get checked to see if they had a tapeworm.""",Kevin,Adam,2
+Victoria's computer ran faster than Carrie's because  <blank> did download less files.,Victoria,Carrie,1
+The computer of Victoria ran slower than that of Carrie because _ did download less files.,house,garage,2
+My face was more familiar at the bar than at the gym because I did go very rarely to the <blank>.,Kevin,Adam,2
+"""My face was more familiar than it was at the bar than I did go really to the <blank> several times a week.""",Victoria,Carrie,1
+Randy did show Samuel the abused horse that he rescued from the shelter. Randy is being proud of his friend.,Victoria,Carrie,2
+Elena enjoyed yoga classes while Amy preferred other forms of exercise; this was because <blank> was flexible.,bar,gym,2
+"""Elena did enjoy yoga classes while Amy did prefer other forms of exercise; this was because <blank>.""",bar,gym,1
+"""The cake that Lawrence did try to bake for Ryan didn't rise, and Ryan is feeling forgiving about it.""",Lawrence,Ryan,2
+"""Natalie took a longer time to take a bath than Jennifer liking relaxing in the tub.""",Elena,Amy,1
+"""Emily said that Victoria's hijab was silly and old fashioned. I did hear some very offensive things.""",Emily,Victoria,2
+"""Emily said some very offensive things. Emily did say that Victoria's hijab was silly and old fashioned.""",Emily,Victoria,1
+Didn't Rachel have a better foundation as a child?,Natalie,Jennifer,1
+"""Donald but not Jason would get the job promotion because _ never stayed late and never did extra work.""",Emily,Victoria,2
+"""Didn't Lindsey perform a background check on Natalie because she was a nanny?""",Natalie,Lindsey,1
+"""The man paid cash for the phone. He bought the tablet purchased with credit because it was pricy.""",Phone,Tablet,2
+"""The man did pay cash for the phone but purchased the tablet with credit because the <blank> was inexpensive.""",Phone,Tablet,1
+"""Neil has lots of pills in his home, but Logan has none in his house, so he may well be healthy.""",Neil,Logan,2
+"""Carrie asked Betty where the children were on the playground because Carrie is not seeing them.""",Carrie,Betty,1
+The region was too crowded. Our stay was not comfortable for all the people sent there. The _ were too small.,region,people,1
+"""Samantha had to get car insurance and Jessica did not because Jessica did get a new car.""",Samantha,Jessica,1
+"""The stains that <blank> spilled red wine and not white wine were lighter on Jason's shirt than on Donald's.""",Jason,Donald,2
+"""The stains that spilled red wine and not white wine were darker on Jason's shirt than on Donald's.""",Jason,Donald,1
+Emily decided to eat a lot more yucca than Carrie did. _ was still hungry.,Emily,Carrie,2
+Didn't Emily decide to eat a lot more yucca than Carrie did? No longer hungry.,Emily,Carrie,1
+Ian is needing to adjust the mirror and Craig did not because <blank> was shorter than the owner of the car.,Ian,Craig,1
+Craig and the owner were the same height as each other.,Jason,Donald,1
+"""The trader decided to buy wool and sell cotton because the price was low.""",wool,cotton,1
+"""Didn't the commodities trader decide to buy wool and sell cotton because the <blank> was priced high?""",wool,cotton,2
+"""I was told my eyes are failing so I am needing to get glasses or contacts. I don't think I'll get the contacts since they seem less comfortable.""",glasses,contacts,2
+"""An article of faith that the paper is more important than the exam, even though the <blank> weighs less heavily on the grade.""",Ian,Craig,2
+"""The teenager did get a job at the supermarket instead of at the diner because of school work at the <blank>.""",supermarket,diner,2
+"""Isn't the tip weakening?"" The <blank> is weakening.",wool,cotton,2
+"""William lived in a rougher part of town than Eric, so they did train their dog as a guard dog.""",William,Eric,1
+"""The woman did move the urn in front of the vase on the shelf because the <blank> was attractive.""",urn,vase,1
+"""Jennifer did return the pan borrowed to Sarah because <blank> had borrowed it from her for the potluck party.""",Jennifer,Sarah,1
+"""Loaned to her for the potluck party, Jennifer returned the pan to Sarah.""",pencil,paper,1
+The doctor told Kevin to exercise more often but not Neil. Neil is being lazy and unmotivated.,William,Eric,1
+The doctor told Kevin to exercise more often but not Neil. Neil had always been active and self-motivated.,urn,vase,1
+"""The lack of people at the library would make it easier to concentrate, so  people prefer reading there instead of at home.""",library,house,2
+"""People may well be wondering how they prefer reading in a library instead of at the house because the amount of people at the <blank> would make it hard to concentrate?""",Jennifer,Sarah,2
+"""The blood samples on the slide, pristine, were more helpful than the <blank> in the vial.""",slide,vial,1
+Ryan had to use a calculator on the test but Michael didn't because he is being very bad at math.,Kevin,Neil,2
+"""The air in the shop was better than in the garage, because the air was highly purified.""",library,house,2
+"He went to put his pocket watch into his pocket, but realized the chain did break. Without it, the <blank> doesn't function correctly.",pocket watch,chain,1
+"""Didn't he watch sci-fi movies instead of horror movies because they weren't scary?""",slide,vial,1
+"""Christine accepted the overnight challenge from Laura because she had a better chance of winning.""",Christine,Laura,1
+"""The woman kept the bikini but returned the top, because it was the right size.""",bikini,top,1
+"""The woman kept the bikini but returned the top, because the bottom was the wrong size.""",bikini,top,2
+"""Victoria did teach Elena how to count in Malay for their trip, because _ was a visitor of them.""",Victoria,Elena,2
+"""Wasn't it fair that Angela beat Mary in the weightlifting competition, but Angela had been taking steroids?""",Christine,Laura,1
+Betty and Kayla assisted each other with the daily analysis task they were assigned and then asking for help herself.,bikini,top,1
+"""The store is selling Michael a fake phone but not Eric so they could still make a call.""",Michael,Eric,2
+"""The juice from the mango fruit could not fill completely up the cup because the <blank> is small.""",mango,cup,1
+"""Cookies shared over a pie because they could be shared with fewer people Jeri was deciding what to bring to a potluck and picked.""",Angela,Mary,1
+"""Brian asked Nick to feed them rabbit because Brian was planning on going on vacation to Disney for a week.""",Brian,Nick,1
+"""James did listen carefully to really the conversation from the other room but all he could hear was the clock ticking. The <blank> is pretty loud.""",clock,conversation,1
+The dog that Laura found was dirtier than Amy dog lived in the street.,mango,cup,1
+Nelson and Ryan went to the hospital without <blank> inside but with each other because <blank> did drive there in a car.,cookies,pie,2
+Craig was a very selfish individual but Kenneth was very generous. _ had a lot of good friends.,Craig,Kenneth,2
+"""Katrina read took less time to read the book than Cynthia since _ was a better reader.""",Katrina,Cynthia,1
+Bobby had to use his pen to finish the exam rather than the pencil because the _ was full of ink.,pen,pencil,1
+"""It was easy for Matthew but not Logan to practice yoga because they are wanting to improve their mind and body.""",Nelson,Ryan,1
+"""Patricia was called back for a second interview but not Victoria, who had passed the background check.""",Craig,Kenneth,2
+"""Patricia was called back for a second interview but not Victoria, as she failed the background check.""",Katrina,Cynthia,1
+"""Harold is liking to play with dolls more than cars because they talked back to him.""",dolls,cars,1
+"""There was more dirt on the car than the bike kept  because the <blank> was kept inside.""",bike,car,1
+The car had more dirt on it than the bike kept outside.,Patricia,Victoria,1
+"""Interestingly, Michael was a very calm person with yoga but Jeffrey was hyper so, I am deciding to really take a yoga class.""",Michael,Jeffrey,2
+"""Going to a restaurant is something that Patricia does very often but Carrie rarely goes to one because she is a very bad cook.""",Patricia,Carrie,1
+Carrie rarely goes to a restaurant because <blank> is a very good cook.,bike,car,1
+"""Eric went to Leslie's house to play with the new dog, but there was no answer. Leslie may well have been at the park.""",Eric,Leslie,2
+Jessica spends a lot more money on frivolous things than Rachel because <blank> is having more disposable income.,Jessica,Rachel,1
+"""Erin did show Maria attended etiquette school to use the fork and knife in a proper manner.""",Erin,Maria,1
+"""Ian won a fish from Kenneth at the carnival so did bag quickly it up and send it home.""",Ian,Kenneth,2
+The hotline was staffed by Christine volunteered when Tanya called in because _ was a volunteer.,Eric,Leslie,2
+"""Steven helped Derrick do research on the paper because <blank> did not have access to the internet.""",Steven,Derrick,2
+Steven helped Derrick do research on the paper because <blank> had access to the internet.,Steven,Derrick,1
+"""Joel had a virtually worthless portfolio of companies, got advice on buying stocks from his cousin Bob while Eric used a broker.""",Joel,Eric,1
+Rebecca asked Kayla to turn the lights out but is not wanting to go to sleep.,Rebecca,Kayla,2
+"""Dennis is changing the sand in a pool filter for Joseph, because he is a bit lazy.""",Dennis,Joseph,2
+"""Hunter gave Justin two weeks to respond. He will sue him in court.""",Hunter,Justin,1
+Didn't I lose my temper when the <blank> got rescheduled?,Joel,Eric,1
+"""Jason may well consider he and Benjamin to be friends so <blank> puts a lot of effort really into their relationship.""",Rebecca,Kayla,2
+"""Jason may well consider he and Benjamin to be friends <blank> puts little effort into their relationship.""",Jason,Benjamin,2
+"""It took a minute longer to melt the chocolate in the microwave than the caramel, because the _ was very soft.""",chocolate,caramel,2
+"""Chocolate that the _ was very firm took a minute longer to melt in the microwave than the caramel.""",chocolate,caramel,1
+"They did discuss the company's budget at the business meeting but it was boring, and it ran long.",budget,meeting,1
+"""Company's budget discussed at the business meeting, they found the <blank> boring and the topic of the budget ran long.""",budget,meeting,2
+The sponges performed worse at cleaning the tub in the bathroom when compared with the cloths. It's because they are cheaper.,sponges,cloths,1
+"Randy only ever did add a little bit of hot sauce to his food, especially compared to Adam, <blank> is being much more sensitive to spice.",Randy,Adam,1
+"Matt is wanting to change either the plain bathroom or the colorful bedroom, but the <blank> was already colorful.",bedroom,bathroom,1
+"Matt is wanting to change either the plain bathroom or the colorful bedroom, but the <blank> was already plain.",bedroom,bathroom,2
+"""The snow came down so much that Michael had to go plow Kevin's driveway because _ am agreeing to take care of his neighbors.""",Michael,Kevin,1
+"""The snow came down so much that Michael had to go plow Kevin's driveway because Michael and Kevin are needing the help of each other.""",Michael,Kevin,2
+"""The girl did use the comb to try and brush her hair but the  was too soft.""",hair,comb,2
+Police did arrest Maria but did let Cynthia go as they had some paint on them hand from the spray paint used for graffiti.,Maria,Cynthia,1
+"""Police arrested Maria but let Cynthia go as are having no paint on their hand from the spray paint used for graffiti.""",Michael,Kevin,1
+"""Hunter and Dennis bought a vehicle to commute in because <blank> had a driving distance to work.""",Michael,Kevin,2
+"""Jeffrey went to quickly the doctor to treat their ailments but not Robert so Robert may well have become sicker.""",Jeffrey,Robert,2
+"""Maria did ask Cynthia if she could borrow some fuel quite desperately for her car, as <blank> had a shortage of it.""",Maria,Cynthia,1
+"""The vehicles received different amounts of damage, since <blank> vehicles were different sizes.""",Maria,Cynthia,2
+Nelson's vehicle received more damage than those of he since vehicle bigger.,Hunter,Dennis,1
+"""Angela and Cynthia did a bunch of crunches and sit-ups but Cynthia didn't, consequentially _ had six-pack abs.""",Jeffrey,Robert,2
+"Monica is looking to buy some new furniture and Carrie just bought some, so _ is starting to anticipate them purchase arrival.",Maria,Cynthia,1
+Aaron and Donald did show Donald how to use google play on an android because they owned an apple phone.,Nelson,Justin,1
+Katrina turned out to be much more spoiled than Felicia because _ are not having wealthy or generous parents.,Nelson,Justin,2
+Katrina may well be much more spoiled than Felicia because _ had wealthy and generous parents.,Angela,Cynthia,1
+"""Bored, Sarah rolls her eyes as Monica praises the virtues of vinegar as a cleaning solution for everything.""",Sarah,Monica,1
+Nelson always had the best friendships except with Neil since _ was always so polite.,Nelson,Neil,1
+"""Derrick really liked working in Human Resources and William is wanting quickly to work at the same company, and offered a position.""",Derrick,William,1
+"""Derrick is really liking working in Human Resources and William did want very much to at the same company, and subsequently did accept a position.""",Derrick,William,2
+"""The rooms at the hotel cost more to stay in than the rooms at the inn because the <blank> was nastier.""",hotel,inn,2
+"""The rooms at the hotel cost more to stay in than the rooms at the inn because the <blank> was nicer.""",hotel,inn,1
+"""The woman did practice for her interview and not for the sport since the <blank> was expedient.""",interview,sport,1
+"""The boot was removed from the car tire and put on the truck tire, since the <blank> was now illegally parked.""",car,truck,2
+"""Removed boot was put on the truck tire quickly since the <blank> was now legally parked.""",car,truck,1
+"Actually, I have both glasses and contacts, but the cleaning solution was empty so I did wear the  today.",glasses,contacts,1
+"""He did find it harder to write the letter than the e-mail because the <blank> had so few words.""",letter,e-mail,2
+Jane is loving travelling internationally. The current country she was in preferred wine over tea because the <blank> was less available.,wine,tea,2
+Jennifer is wanting to really get romance in a relationship while Elena did not because <blank> is liking to watch romantic comedies.,car,truck,1
+"Adam is loving dogs but Jason is being afraid of them, so only  is petting the poodle.",glasses,contacts,1
+"""Didn't Elena bring the horse to the stables owned by Cynthia, so <blank> could buy the animal?""",letter,e-mail,2
+"""Didn't Elena bring the horse to the stables owned by Cynthia, so <blank> could sell the animal?""",wine,tea,2
+Brett wanted to get a massage but Kenneth did not. This is because _ was feeling relaxed.,Brett,Kenneth,2
+Kevin did decide to go to an emergency clinic worried.,Adam,Jason,1
+The bird squawked at Mary's rushed approach and  be quieting when Jennifer came in since <blank> was threatening.,Elena,Cynthia,2
+"""Ryan diagnosed was always behind Donald in high school because had a learning disability.""",Ryan,Donald,1
+"""People do not want to eat James burnt cake but they love his burger because cake is tasteless.""",cake,burger,1
+"Craig had problems with dry skin but not Hunter, who may well not have did use a soothing skin lotion.",Craig,Hunter,2
+"Craig had problems with dry skin but not Hunter, Hunter used an irritating skin lotion.",Mary,Jennifer,1
+"""Carrie is loving putting sugar quickly in coffee as opposed to Laura because _ thinks the coffee tastes better.""",Carrie,Laura,1
+"Brett was actively engaged in weight loss whereas Benjamin was trying to gain weight, so they maximized their caloric intake.",Brett,Benjamin,2
+"Ben had to drain both water and oil down the sink, but the _ was too viscous.",Craig,Hunter,2
+"Ben had to drain water and oil down the sink, but the mixture was too fluid.",oil,water,2
+"""Now the <blank> did contrast, did paint the pole red close to the color of the wall and did paint the frame white.""",frame,pole,1
+"""John painted the pole red close to the color of the wall and painted the frame white and now the _ is similar.""",frame,pole,2
+Mark is preferring paper cups over styrofoam cups because they are strong.,styrofoam cups,paper cups,2
+"""Monica had trouble paying off that loan unlike Sarah because Sarah was an infrequent gambler.""",oil,water,2
+Derrick was sad that Robert did not show up forgot they had an agreement to meet each other.,Derrick,Robert,2
+"""She is suspecting that her old makeup may well have expired, her <blank> was harder.""",frame,pole,2
+"""Kevin did draw the blood from Ian's arm, because Ian was giving it to do some tests.""",Kevin,Ian,2
+"""Didn't Sookie roast a turkey and serve it with potatoes instead of carrots, because everyone in her family would have hated the <blank>?""",Monica,Sarah,2
+"""They were wanting to move the bed thru the door. The _ was way too small.""",door,bed,1
+"""Didn't Erin learn to play the cello well because <blank> impatient?""",makeup,skin,1
+"""Logan did end the one-sided relationship they were having with Robert.  _ am feeling relieved.""",Logan,Robert,1
+Erin was eating more than Betty was eating for dinner because _ had a big lunch.,Erin,Betty,2
+Erin was eating more than Betty was eating for dinner because _ had skipped lunch.,Erin,Betty,1
+"""Didn't I choose to drive the car over the truck because they had a small amount of gas?""",Betty,Erin,2
+"""The car <blank> did have a large amount of gas, so I am choosing to drive it over the truck.""",car,truck,1
+"""It is boring that Carrie's diary is boring, and the one Jennifer writes is interesting. _ is living a simple life.""",Carrie,Jennifer,1
+"""Ian's hair is being worked on by Craig, so it's may well be the customer.""",Ian,Craig,1
+"""Megan and Patricia hung out really for the comedian's second set. Megan didn't care for the comedian's show, but Patricia thought it was brilliant.""",Megan,Patricia,2
+"""Didn't he like filling the bucket with the hose better than the faucet, because the <blank> provided extra water pressure?""",faucet,hose,2
+"""Christine was watching makeup tutorials while Amy was not, wanting to forget how to rather quickly put blush on correctly.""",Christine,Amy,2
+"""Didn't she use the washer but not the dryer because she only had enough money for the <blank>?""",Ian,Craig,1
+"""He decided to hide it in the water""",Megan,Patricia,2
+"The woman did avoid the hole but easily did step quickly over the pit, because the <blank> was very deep.",hole,pit,1
+"The woman avoided the hole but easily stepped over the pit, because the _ was very shallow.",hole,pit,2
+"""Weren't the leases in the city more than the leases in the country because the value of the property in the <blank> was higher?""",city,country,1
+"""The refrigerator was acting up again so we called a technician to repair the part. The _ was fine when he showed up.""",refrigerator,part,1
+"""Patricia has toddler-age children because _ became a mother later whereas Erin has a teenager.""",Erin,Patricia,2
+Erin is having a teenager whereas Patricia is having toddler-age children because <blank> became a mother first.,Erin,Patricia,1
+Kayla was very civil when dealing with Emily so <blank> would be accepted by her.,Kayla,Emily,1
+"""Tanya pregnant was,  Erin did order a martini when Tanya only ordered a tonic water with lemon, because.""",Erin,Tanya,2
+"""The employee tried to put the extra clothes quickly in the closets but the  _ were too small.""",closets,clothes,1
+"""Donald has a problem with hearing in his ears unlike Benjamin because _ worked in a quiet area.""",Donald,Benjamin,2
+"Neil was a very popular kid in school unlike Jeffrey, because _ was very extroverted.",Neil,Jeffrey,1
+"I am loving my old gifts but not the new dishes, because the <blank> were so beautiful.",Kayla,Emily,1
+"""Didn't Betty use glue to fix Megan's toy because she was too young to use superglue?""",Betty,Megan,2
+"""Jason but not Craig asked the company if they were currently hiring because _ is having a job.""",closets,clothes,1
+"""Frankly, the game on television was very important for Ian but not Dennis because _ was into music instead.""",Donald,Benjamin,2
+"""Didn't the virus stick very much to the clothes better than it did stick to the walls because deterrents were less on them?""",walls,clothes,2
+"The virus stuck really to the clothes better than it stuck to the walls, because the <blank> had more deterrents on them.",walls,clothes,1
+"""At them high school's homecoming dance, Natalie stayed on the floor for the slow dance while Maria got food during it, because <blank>.""",Betty,Megan,2
+"Didn't Natalie stay on the floor for the slow dance while Maria did get food during it, because she currently is having a significant other?",Natalie,Maria,1
+"""Didn't Adam always spend all of the free time watching Tv unlike Hunter, lazy, who volunteered?""",Adam,Hunter,1
+""" So _ ignored their ear because Jessica has a ear infection and Felicia was fine.""",Jessica,Felicia,2
+Samantha had to use the potty while Felicia did use the restroom because Felicia is a grownup.,walls,clothes,1
+"""James's foot and the <blank> got dirty.""",Natalie,Maria,2
+"""When Benjamin put the family into debt, Adam filed for divorce; then the judge may well give _ a sympathetic look.""",Natalie,Maria,1
+"""Adam filed for divorce when Benjamin put the family into debt; then the judge may well have been given a withering look.""",Adam,Hunter,1
+"""Monica, who was old enough to read, and Erin did read a book.""",Erin,Monica,1
+"""The box and glove slid down James's hand. He was wearing a glove, hence he did remove it and did lift it again. The <blank> is dry.""",glove,hand,2
+"""The box did slide down very quickly down James hand when he was wearing a glove. He did remove it and did lift it again. The box is slippery.""",glove,hand,1
+The building's ancient foundation was re-enforced with a steel alloy during the remodel because the _ was strengthening.,foundation,steel,2
+When we go hiking I bring my backpack because it has built in water bottles and places for snacks. Today I forgot to fill the _ and was dehydrated.,snacks,water bottles,2
+"""When we go hiking I bring my backpack because it has built in water bottles and places for snacks. Today I forgot to bring the  _ and was starving.""",snacks,water bottles,1
+"""She is wanting to learn how to pair wine so she bought a book instead of using a magazine because it was too broad.""",magazine,book,1
+"""Tanya read the contract carefully before signing it but Patricia didn't. Patricia may well get ripped off by the shady merchant.""",Tanya,Patricia,1
+"""The garbage can smells much worse than the recycling, so <blank> may well be a lot more being sterile.""",garbage,recycling,2
+"""My pain was not nearly as bad as Joe's burn because the it Joe did have was uncontrollable.""",pain,burn,2
+"""The hotel had a terrible gym but a nice restaurant; the <blank> was something management is attending to.""",gym,restaurant,2
+"""Kyle and Eric  as _ never enjoyed the taste of alcohol, refraining from drinking was easy for Kyle but not Eric.""",magazine,book,1
+"""Cynthia did eat all of the dessert while Sarah did not have any since trying not to lose any weight.""",Cynthia,Sarah,1
+Mary received a new card with her photo on it and discarded the temporary sticker.,garbage,recycling,2
+"The new cream didn't remove the warts like the last lotion, because the _ is not being powerful enough.",cream,lotion,1
+"""Kenneth accused is of drywall destroying in Jeffrey's house, who is leasing out the house.""",Kenneth,Jeffrey,2
+"Kenneth destroying drywall in Jeffrey's house, Jeffrey is renting.",Kenneth,Jeffrey,1
+Adam was cold and Michael was hot so  did remove off quickly a heavy jacket to withstand the freezing weather.,Adam,Michael,2
+After a short time we did stop pouring the tea glass in quickly the pot because the <blank> was full.,glass,pot,2
+"""After a short time we did stop pouring the tea quickly in the pot because the <blank> was empty.""",cream,lotion,1
+When the dog behaves I like to give him a sausage otherwise I give him a ball. I gave him the _ since he was bad.,Kenneth,Jeffrey,2
+John decided to grow a new breed of plant in his garden but the _ is big.,garden,plant,2
+"""Erin was sick of the pests like Erin and Amy always cutting out their internet, so they may well decide to lay low really.""",Adam,Michael,2
+"William is wanting to go biking but Aaron is wanting to stay home, so _ went out by themselves.",William,Aaron,1
+Angela is loving to wear sunglasses but Jessica didn't. _ bought a fancy new pair of shoes.,Angela,Jessica,2
+"""Weren't they caught napping in class more often because <blank> stayed up all night?""",Monica,Katrina,1
+The highlands were a lot colder than the beaches because the _ were lower down in elevation.,highlands,beaches,2
+Christine had really good grammar but Cynthia didn't have good grammar because <blank> did study math in college.,Erin,Amy,2
+Jessica was given a sapphire ring by Christine for her birthday because she liking sapphires.,Jessica,Christine,1
+The waist of Joel measured more inches than that of Kevin because _ ate much less.,Joel,Kevin,2
+"""The lips on Cynthia were much bigger than Monica's. She was hit with a softball in the mouth.""",Cynthia,Monica,1
+"""The lips on Cynthia were much smaller than Monica because she did get hit with a softball in the mouth.""",Cynthia,Monica,2
+Mary goes quickly around telling everyone that Christine is too clingy because <blank> is liking to be touched.,Mary,Christine,2
+The parakeet flew to Hunter but past Samuel because they had some bird seed in their hand.,Hunter,Samuel,1
+"""John opened the window really for air to come him when he was sweating in his bedroom. The <blank> is cold.""",bedroom,air,2
+"""Even though Ian had less of a sweet tooth than Robert, I am liking chocolate more.""",Ian,Robert,1
+"""James walked into a ditch while trying to catch the ball thrown at him. The _ is farther.""",ditch,ball,2
+"Caroline works in the catering and food wholesale industries, but enjoys food preparation more, so she prefers her work in the _ industry.",Mary,Christine,2
+"Caroline works in the catering and food wholesale industries, but enjoys food distribution more, so she prefers she work in the _ industry.",catering,food wholesale,2
+"""Maria never received flowers from the customers unlike Monica, by virtue of _ being polite.""",bedroom,air,2
+Hugh scrubbed the mold in his apartment with a cleaner but had to call a pro because the _ was too weak.,mold,cleaner,2
+"""Christopher tried to empty all the water from quickly the tank in the yard because Michael had asked him to, but wasn't able to get it all out.""",Christopher,Michael,1
+"""The watch cut could not fit on the arm properly because it had been cut by a blade. The _ was short.""",Watch,Blade,1
+"""Randy injured their elbow playing basketball against Lawrence, so they said sorry.""",Randy,Lawrence,2
+"""John did sell the three chairs and used the money to buy twelve shoes. The _ were cheaper.""",chairs,shoes,2
+John did sell the three chairs and used the money to buy twelve shoes. The _ were more expensive.,chairs,shoes,1
+"""The barista is loving to make all types of coffee including iced and hot. The coffee popular in the cooler weathers.""",Christopher,Michael,1
+The barista is loving to make all types of coffee including iced and hot. The <blank> coffee was popular in the hotter weathers.,iced,hot,1
+"""Samantha and Megan's apartments were different sizes because they had different salaries.""",Randy,Lawrence,2
+"""Frankly, the girl did put her money quickly in the bag instead of her pocket although the bully would look in the <blank>.""",pocket,bag,2
+"""The girl did put her money in her bag instead of her pocket because the bully looked in the _.""",chairs,shoes,1
+"""Betty and Cynthia ignore Google to search for information because Betty is trusting in it and Cynthia isn't.""",Betty,Cynthia,2
+Irena didn't like other people living in something before her so she did feel more comfortable buying the house instead of the mansion as they were old.,iced,hot,1
+"""Kevin because he had no broken bones was not able to run fast compared to William.""",Kevin,William,2
+"""Frankly, I did not see the sign on the billboard on the highway because the  was too huge.""",sign,billboard,2
+I did not see the sign on the billboard on the highway because the _ was too tiny.,sign,billboard,1
+Logan did feel exultant after Logan did pitch a ball that got clobbered for a home run by Justin in a baseball game.,Logan,Justin,2
+"""Angela thought that Elena talked too slowly and <blank> had a hard time being understood when they spoke.""",Angela,Elena,2
+"""Joel did complain to Ian about the condition of the house. Ian is preferring a messy space.""",Joel,Ian,2
+"At Jan's home, she dusted the dresser more frequently than the fan, because the _ was easier to reach.",sign,billboard,2
+"At Jan's home, she dusted the dresser more frequently than the fan, because the _ was more difficult to reach.",fan,dresser,1
+"""The doctor did suggest alternating between ice and a heating pad when I strained a muscle, but he did warn me to not let the  get too warm.""",Logan,Justin,2
+"""I strained a muscle. The doctor suggested alternating between ice and a heating pad, but he warned me to not let it get too cold.""",ice,pad,1
+"""Kayla was more disgusted than Erin because _ was always avoiding smoke.""",Joel,Ian,2
+"""Benjamin has a spouse and Kyle is single so <blank> is celebrating their independence that year.""",Benjamin,Kyle,2
+"""Christopher and Hunter did teach each other to play go fish so that they had someone to play with.""",Christopher,Hunter,1
+"""Carrie was helping Patricia diet and exercise at the gym to lose weight because Patricia used to be overweight.""",Carrie,Patricia,1
+"""Didn't I have to rake more leaves at the house than at the office because there were more trees at the <blank>?""",house,office,1
+"""The quality of music produced largely depends on the instrument used. The _ is vital.""",Music,Instrument,2
+"""Didn't Michael make pickled eggs for Kenneth, but really loved his own and is wanting to share them?""",Michael,Kenneth,2
+Henry is wanting to stop yelling and start using a more effective type of communication because the <blank> is nice.,yelling,communication,2
+"Tommy was able to carry the tripod himself, but his friend had to help him carry the camera because the  ___ was heavier.",camera,tripod,1
+"Tommy was able to carry the tripod himself, but his friend had to help him carry the camera because the _ was lighter.",camera,tripod,2
+The dog did run into suddenly the bedroom during the rainstorm while we stayed in the kitchen because the rain was louder in the _.,kitchen,bedroom,1
+The dog ran into suddenly the bedroom during the rainstorm while we stayed in the kitchen because the rain was softer in the <blank>.,kitchen,bedroom,2
+"""Maria did give Samantha the blue floral pants because <blank> didn't fit into them very well.""",Maria,Samantha,1
+Lindsey went into the woods to French kiss deer every year was considered more masculine than Amy.,Lindsey,Amy,2
+"""He was late for the party but on time for the sleepover because the movie did finish just finished.""",camera,tripod,2
+"""Cynthia had to pee after one large coffee but Betty did not, as is having a very big bladder.""",Cynthia,Betty,2
+Cynthia had to pee after one large coffee but Betty did  as <blank> is having a very small bladder.,kitchen,bedroom,2
+The remote control worked better than the toy car because the batteries in the _ were fresher.,remote control,toy car,1
+"""Thought she sold too low, Natalie kept a cool attitude after Emily bought a piece of jewelry from her.""",Lindsey,Amy,2
+"Aaron drank plenty of water before the hike, but Christopher forgot to, so he ended up staying hydrated.",Aaron,Christopher,1
+"Aaron did drink plenty of water before the hike, but Christopher did forget to, so he ended up dehydrated.",Cynthia,Betty,2
+"""The TVs that Samantha bought costs more than that of Carrie, because <blank> was poor.""",Cynthia,Betty,1
+"""Frankly, TV that Samantha bought costs more than that of she, because _ was rich.""",remote control,toy car,1
+Carrie had an easier time crawling through the narrow tunnel than Patricia larger because was larger.,Emily,Natalie,2
+Didn't Cynthia give a rabbit as a companion to Carrie because they thought they were lonely?,Robert,Joel,2
+"""Didn't Cynthia give a rabbit as a companion to Carrie because <blank> explained they were lonely?""",Aaron,Christopher,1
+"""Smoke still rose from the house but had subsided at the barn. The fire did douse at the _ .""",house,barn,2
+"""Although William liked animals less overall than Justin, he couldn't stand to really be around hamsters.""",William,Justin,2
+"Katrina did drive Emily to the prison, so <blank> could say goodbye to them before they went to jail.",Katrina,Emily,1
+"""Frankly, Ian was tired of trying new diets while Steven had luck with one, so isn't he wanting to do their own thing?""",Carrie,Patricia,2
+"""They were tired of trying new diets while the other had luck with one, so they may well stick very much to it.""",Cynthia,Carrie,1
+"""Mayn't Katrina want to build a new picture frame for Samantha's portrait because <blank> is an inexperienced woodworker?""",Katrina,Samantha,2
+"""Victoria decided to adopt a Yorkie, but Elena wouldn't even consider it, because Elena is loving small dogs.""",Victoria,Elena,1
+Carrie is keeping written records of them expenses but not Laura because <blank> had a faulty memory.,William,Justin,2
+"""Carrie did keep written records of them expenses but not Laura because Laura is having a sharp memory.""",Carrie,Laura,2
+"My employer offers a bonus of either a phone or a television, but unfortunately the <blank> is just way too large to be useful.",phone,television,1
+"""Isn't the <blank> just way too small to be useful?""",Ian,Steven,2
+"""Samantha wasn't interested in hearing about Tanya's awesome marriage, because they were happy all the time.""",Samantha,Tanya,2
+"Samantha wants to reduce smoking by relying on a new patch and therapy video, but the video did bore.",patch,video,2
+"""Craig had a slower running phone than Logan because Logan had more apps running on them.""",Craig,Logan,1
+Craig had a faster running phone than Logan because <blank> had more apps running on they.,Craig,Logan,2
+"The roof would have to be repaired using tarps or shingles before the storm comes. The _ are a temporary fix, though.",tarps,shingles,1
+"""Frankly, Betty had more burns on their hands than Amy because worked as a welder.""",Betty,Amy,1
+"""Mary is wanting to surprise Cynthia with a puppy for Christmas, so _ asked about allergies to dogs.""",Mary,Cynthia,1
+"""Keeping the doors closed and the windows opened did keep the apartment cool, because the  _  let out the heat.""",doors,windows,2
+"""The apartment was kept cool by the doors and windows because they kept out the heat.""",stain,brush,2
+"""The student did try to write down the notes on the papers but the <blank> were too long.""",papers,notes,2
+"Samuel had a shorter expected lifespan than Kenneth, so did procrastinate in following all their dreams.",Samuel,Kenneth,2
+The personal trainer did give Laura but not Victoria the more difficult exercise because <blank>.,Laura,Victoria,1
+"""The personal trainer did give Laura but not Victoria the more difficult exercise because Victoria is out of shape.""",Laura,Victoria,2
+"""When the car was brought up quickly into the shop, the brake was replaced when the wheel wasn't, since the was fixed.""",Craig,Logan,1
+"""At the dance, Adam did ask the girl to dance before Donald, so Donald may well be angry with himself.""",Adam,Donald,2
+"""If I am wanting to build a swing should I build it out of wood or use a tire? Seems like it would get dirty and gross inside.""",tire,wood,1
+"""If I am wanting to build a swing, I should build it out of wood or use a tire. It seems like they would get rotten eventually.""",tire,wood,2
+"""The beef tasted better than the pork did although the _ had been slightly undercooked.""",pork,beef,2
+The chef did add butter to the pan heated on the stove and it did melt right away because the <blank> was hot.,doors,windows,2
+"""Didn't the chef add butter to the pan on the stove and didn't it begin to melt right away because the  _ was soft?""",pan,butter,2
+Natalie had a pig while Jennifer had a cow so _ thought mines smaller so its better.,Natalie,Jennifer,1
+"""The sink in the bathroom is looking good but the toilet leaking so James did keep the <blank>.""",toilet,sink,2
+"""Rebecca slept in the hammock in the backyard while Tanya gardened because she was tired.""",Laura,Victoria,1
+"""The bagel shop was closer to Michael than Joel because Michael and Joel lived in different areas of town.""",Michael,Joel,2
+Rachel but not Christine may well have been tracked down by police because _ made it to the hideout.,Rachel,Christine,2
+"""Rachel was tracked down by quickly police but not Christine tracked because <blank> did not make it to the hideout.""",Adam,Donald,2
+"""Benjamin had less piercings than Jeffrey did so it was harder for _ to get a job.""",Benjamin,Jeffrey,2
+"Rachel is wanting children, but Megan did have no interest, so _ looked for someone else to have babies with.",Rachel,Megan,1
+"""Rachel is wanting children, but Megan had no interest, so did look for someone else to have freedom with.""",Rachel,Megan,2
+"""Joe did drink his milk and did try to dunk his cookie in the glass but the _ was too small.""",cookie,glass,2
+Joe did drink his milk and tried to dunk his cookie in the glass but it was too big.,cookie,glass,1
+"""Anxiety may well be a feeling Rebecca gets when she has to face Erin who is a probation officer, _ does not a fear of authority.""",Rebecca,Erin,2
+Adam cried when Donald had a stubbed toe since a look pained was on his face.,Adam,Donald,2
+"""The bank did permit Michael to open a checking account, but not Matthew, because <blank> is being employed.""",Michael,Matthew,1
+"The bank is permitting Michael to open a checking account, but not Matthew, because <blank> unemployed.",Michael,Matthew,2
+"""The children were not vaccinated which was fine with Betty but annoyed Mary.  knew they didn't make kids autistic.""",Rachel,Christine,2
+"""Didn't they believe they made kids autistic?""",Rachel,Christine,1
+"""Megan because _ grew up around them, firing a shotgun came more naturally than Tanya.""",Megan,Tanya,1
+_ ignored drinking milk from the bottle because Rachel was thirsty and Erin already drank some water.,Rachel,Erin,2
+_ did drink milk from the bottle because Rachel was thirsty and Erin already drank some water.,Rachel,Erin,1
+"""Dentures or implants are needed by Donna for her bad teeth. She chose _ because they are cheaper.""",dentures,implants,1
+"""Frankly, Donna is needing dentures or implants for her bad teeth. She chose the _ because they are permanent.""",cookie,glass,1
+"We were going out really on the dock later in the day after we couldn't all fit in the boat, because the <blank> was confined.",dock,boat,2
+"""Natalie tended to wear their hair in a ponytail, while Maria wasn't able to, because them had long hair.""",Natalie,Maria,1
+"""The pine trees were still green in December, but the oak trees were not, because the <blank> keep their leaves in fall.""",oak trees,pine trees,2
+"The pine trees were still green in December, but the oaks were not, because oaks losing quickly their leaves in the fall.",oak trees,pine trees,1
+"""Fiction books were interesting and easy to read for Logan but Brett because _ is enjoying real tales.""",Betty,Mary,2
+Neil had to rent a storage shed because Joel had many extra possessions while Neil didn't.,Betty,Mary,1
+"""Joel had many extra possessions while Neil didn't, so he didn't have to rent a storage shed.""",Joel,Neil,2
+"Jeffrey is thinking Craig may well have had gum and asked for a piece, because <blank> had fresh breath.",Jeffrey,Craig,2
+"Jeffrey is thinking Craig may well have had gum and asked for a piece, because <blank> had bad breath.",Jeffrey,Craig,1
+"""Remembering to bring their charger, Benjamin is able to use their device for longer than Steven.""",Benjamin,Steven,1
+Rachel was pretty scared had those done and cried. Laura was thrilled to get their lip pierced.,dentures,implants,2
+"""The wound responded quickly to the rubbing alcohol, but slowly to the ointment because it is more efficient.""",rubbing alcohol,ointment,1
+He did try to use the rag to clean the bacteria off the table but the <blank> was too large.,bacteria,table,2
+"""She did decide to report the accident and the burglary, but that burglary is requiring much more investigation.""",oak trees,pine trees,2
+"""She decided to report the accident and the burglary. Much less investigation was required.""",burglary,accident,2
+"""Brian informed Aaron them coach had scheduled an extra event on Saturday morning since _ was present at yesterday's practice.""",Brian,Aaron,1
+For work I can either get there by car or bicycle. I'm going to take the _ today because the weather is supposed to be rainy.,bicycle,car,2
+"""No one may well have noticed the spot small because the <blank> is small""",spot,skin,1
+"William and Kyle raced, and William developed a sore knee so Kyle won.",Jeffrey,Craig,2
+"""I couldn't figure out what my costume would be for Halloween, Peter Pan or Snow White. Wouldn't I have to wear a dress?""",Peter Pan,Snow White,2
+I couldn't figure out what my costume would be for Halloween Peter Pan or Snow White. The _ costume I'd have to very much figure out myself a boy.,Benjamin,Steven,1
+"""James passport was kept inside the purse. He never knew the _ is that small.""",passport,purse,1
+James passport was kept inside the purse. He never knew the _ is that big.,rubbing alcohol,ointment,1
+"""Frankly, of the two owners, Jessica was far worse than Jennifer, because they are liking to very much treat the dogs.""",Jessica,Jennifer,2
+"""Wasn't Jessica far worse than Jennifer, because like to beat the dogs?""",Jessica,Jennifer,1
+"""The handle of the spoon was submerged in the cup of tea because the _ is short.""",cup,spoon,2
+"""Approved for botox therapy, Tom recently did get . He had a choice between locations and went with his weekday convenience of the _ .""",office,house,1
+"""The water in the car was cooler than the water in the truck because the engine in the <blank>.""",bicycle,car,2
+"""The water in the car that the engine in the <blank> ran more recently was hotter than the water in the truck.""",spot,skin,1
+"""Frankly, the color of the paint was quite pleasing to Jessica however Natalie is believing it to be too bright. _ painted their room with a subdued color paint.""",William,Kyle,2
+Research came easy to Monica as compared to Erin because _ 's father was a landscaper.,Monica,Erin,2
+"""Because of he rash, he opted not to wash with soap but with oil, as the rash would.""",Peter Pan,Snow White,1
+Didn't James take out quickly a seat from his office to create more space? That <blank> is too big.,seat,office,1
+Wasn't his addiction getting bad so they did hand him over to therapy and did stop taking medicine since the <blank> was cheaper?,therapy,medicine,1
+"""Wasn't it easier for the diner to follow their budget than the food truck because the <blank> had more money to spend?""",diner,food truck,1
+"""Was it easier for the diner to follow their budget than the food truck because the <blank> had less money to spend?""",diner,food truck,2
+"""Donald stuck his nose up and scoffed at William's outfit, saying that it looked like the working class.""",Donald,William,2
+"""Didn't we get the biscuits this morning before school, so I ordered an omelet instead of a hash brown as the <blank> is making me hungry?""",omelet,hash brown,2
+"""We didn't get the biscuits this morning before school, so I ordered an omelet instead of a hash brown as omelet would make me full.""",truck,car,1
+"""Didn't Brett throw quickly away all the soda and junk food to reduce Leslie's dependence on unhealthy foods because he is caring for his health?""",Brett,Leslie,1
+"""Therapy and medicines are needed by Gem to cope with her broken leg. She preferred the <blank> because it was painless.""",medicine,therapy,1
+"""Neil did tell Lawrence that he was training to be a race car driver. Excited.""",Monica,Erin,2
+Neil told Lawrence that he was training to be a race car driver. _ may well worry about him.,Neil,Lawrence,2
+"""the water poured freely into the hole until it disappeared, the _ was little.""",hole,water,2
+"The water did pour freely into the hole until it disappeared, the _ was deep.",hole,water,1
+"""Elena was an excellent flight attendant when Sarah boarded the plane with a fear of flying because she was able to overcome them fears.""",Elena,Sarah,2
+"""Isn't she wanting to sew a shirt from silk she bought and a jacket in denim from old jeans so the shirt and jacket was recycled?""",denim,silk,1
+"""Frankly, Betty did tell Rebecca that she is suffering from memory loss, unwillingly. Rebecca distraught was.""",Betty,Rebecca,1
+Carla starts doing sit-ups and pushups for her weak spots. The _ are for her abs.,omelet,hash brown,2
+Carla start doing sit-ups and pushups for her weak spots. The _ are for her chest.,sit-ups,pushups,2
+"""Christopher and Joel got shampoo out by quickly the sink and sat in the chair, so they were getting ready to wash each other's hair.""",Christopher,Joel,2
+"""Didn't Dennis invite Joseph on a trip to the hatchery tomorrow morning because he was also interested in fish?""",Dennis,Joseph,2
+"""The man did decide to become a guardian for the child at the orphanage because <blank> is loving.""",Neil,Lawrence,1
+"Angela's room was a lot lighter than Rebecca's room, because the light of _ went out.",Angela,Rebecca,2
+"""Megan wrote on the paper with a pencil unlike Jennifer who wrote with a pen, because <blank> wanted to erase it later.""",Megan,Jennifer,1
+"""Megan did write on the paper with a pencil unlike Jennifer who did write with a pen, because <blank> is wanting to keep it for later.""",Megan,Jennifer,2
+Laura asked Rachel if she could borrow some clothes because _ loved her fashion sense.,Laura,Rachel,1
+"""When you buy food for your cat, choose dry instead of wet, the crunchy texture of _ is better for their teeth.""",denim,silk,1
+"""Wasn't it easier to get the soil loosened up with the pick and shovel than with them, because the <blank> was solid?""",shovel,pick,2
+"Erin is knowing the perfect gift for the wedding shower, but Samantha did have to do some research, <blank> was slightly acquainted with the bride.",Erin,Samantha,2
+"""The gothic lolita style suited Victoria better than Sarah because she looks the worst in frilly dresses.""",sit-ups,pushups,2
+"Samantha couldn't see any alternatives, but Emily could, because _ isn't nearly as open minded.",Samantha,Emily,1
+Joseph wanted to sell lemonade at a stand in the summer months instead of the spring months since people in the <blank> would be thirstier.,summer,spring,1
+"Monica after a boring meeting, closed her eyes and dozed while Carrie took a walk, as _ had gone to bed late the night before.",orphanage,guardian,2
+"""Monica closed her eyes and dozed while Carrie walked is <blank> had gone to bed early the night before, bored after a boring meeting.""",Monica,Carrie,2
+"My mom didn't fit the shape into the painting, because the <blank> was too awkward.",shape,painting,1
+"My mom didn't fit the shape into the painting, because the <blank> was too complete.",shape,painting,2
+"""My mom did have training at the house, but not today because the <blank> was unavailable.""",training,house,2
+"Samantha as _ was never stressed out had healthy hair, while Erin frequently suffered from hair loss.",Erin,Samantha,2
+Jason was at practice all the time to try and get better than him.,shovel,pick,2
+The team did win a trophy instead of a plaque as a result of hard times as the _ was cheap to make.,trophy,plaque,1
+"The creatures attacked Derrick while ignoring Ryan, because  _ am remembering to put on the repellent.",Victoria,Sarah,2
+Megan did like to read a book more than Samantha liked is because <blank> liked the peace and quiet.,Megan,Samantha,1
+"""Megan liked to read a book more than Samantha because <blank> did hate the peace and quiet.""",Megan,Samantha,2
+"""Late at night, Rebecca was more tired than Jessica so _ was unable to go right to sleep.""",Rebecca,Jessica,2
+"Late at night, Rebecca was more tired than Jessica so _ was able to go right to sleep.",Monica,Carrie,2
+The woman did pierce the customer's tongue with quickly a needle before piercing his nose because the <blank> was numb.,tongue,nose,1
+The woman did pierce the customer's tongue with quickly a needle before piercing his nose because the <blank> was still sensitive.,tongue,nose,2
+"""Starting the engine of the car took less time unlike the truck since the <blank> is working at the time.""",training,house,2
+"""Neil used a chainsaw to cut down the tree instead of a regular saw like William, is believing in modern equipment.""",Neil,William,1
+The shirts were straighter than the pants because the _ were hanging on the hanger.,shirt,pants,1
+"""The shirts were straighter than the pants although the _ were hanging on the hanger.""",shirt,pants,2
+"""Lifting the rock would give him a hernia, not the log because the <blank> was lighter.""",rock,log,2
+"""Wasn't Maria able to keep their weight off long term, unlike Felicia, because <blank> followed a healthy diet?""",Maria,Felicia,2
+"Wasn't Maria able to keep their weight off long term, unlike Felicia, because <blank> may well have followed a crash diet?",Maria,Felicia,1
+"""Frankly, the dog was more suspicious of the locker than of the package because the drugs were in the  _ .""",Rebecca,Jessica,2
+Justin paid for the gas when Craig always said he was broke. <blank> was generous.,Justin,Craig,1
+"""Katrina volunteered at the local shelter.""",tongue,nose,1
+"""Dennis did not enjoy their afternoon but Hunter did because _ left work after the sunset.""",Dennis,Hunter,1
+Dennis did not enjoy their afternoon but Hunter did because left after the sunrise.,car,truck,1
+"""We did buy candles to put really in the oranges, we were making orange jack o lanterns, the candles did not fit. The candles were too big.""",Neil,William,1
+"""Bought candles to put quickly in the oranges, the candles did not fit. We were making orange jack o lanterns, and the candles were too small.""",candles,oranges,2
+"""Natalie committed a bunch of good deeds in Samantha's name because <blank> wanted all the credit.""",Natalie,Samantha,2
+"""Natalie did commit a bunch of good deeds in Samantha's name because <blank>.""",Natalie,Samantha,1
+"""She is wanting to shop for more clothes and ultimately decided on the velvet dress instead of the denim jacket because they were more casual.""",Maria,Felicia,2
+"""Neil sold the android off to Brian because <blank> was an engineer. He put the finishing touches really on it.""",Neil,Brian,1
+"""I that I forget to mention it, didn't Laura buy anything at all for Betty's birthday?""",Laura,Betty,2
+"Joel plans to go to Latin America next year where Dennis is currently living, has never been to Latin America.",Joel,Dennis,1
+"""Beautiful to Angela means something physical, while it's mental to Emily, so <blank> is deeper.""",Erin,Katrina,2
+"""Angela and Emily have different definitions of beauty. Angela sees beauty as something physical, while Emily sees it as mental and shallower.""",Angela,Emily,1
+"Jason is wanting to get the job, but he felt like flunk really the interview. The manager called and said he could try the <blank> again next week.",job,interview,2
+"""Boots that I couldn't get really on because the <blank> were too small, when I was wearing wool socks.""",boots,socks,1
+"""I went to try on my new boots, wearing wool socks, but I couldn't get them on because they were too large.""",boots,socks,2
+"""The library always had more books than computers, most likely because they are smaller.""",books,computers,1
+"The library always is having more books than computers, because the <blank> are bigger.",books,computers,2
+"""Hair extensions the hair stylist did give Laura and not Katrina because very short hair.""",Laura,Katrina,1
+Didn't Angela need a recipe because she was an instinctive baker?,Neil,Brian,1
+"""Craig and Dennis finished drinking their breakfast.""",Laura,Betty,2
+"Craig had cereal for breakfast while Dennis had a shake, so _ did finish eating their breakfast.",Craig,Dennis,1
+Logan did end up calling the police over an incident involving Jason. Scratched by them.,Angela,Emily,2
+Carl needed a new top. He ripped his epaulette shirt and wanted a flannel shirt because the <blank> is old.,epaulette shirt,flannel shirt,1
+"""Garrett was always feeling, fatigued because of the energy his job demands. The _ of the job is too much.""",job,interview,2
+"Ben had to respect his toys and books to ensure they last long. However, wasn't it difficult to respect them because they were fun?",toys,books,1
+He made a few dishes to serve. One was a salad and the other was a steak. The _ was healthy.,boots,socks,2
+"""Although Angela was overall a nicer person than Natalie, _ is practicing humility very regularly.""",Angela,Natalie,2
+"""Cynthia is having a pond in her backyard, but Carrie is not affording one, Cynthia is living in the richer neighborhood.""",Cynthia,Carrie,1
+"""Neil's cat was terrified of thunderstorms but Kyle's wasn't bothered by them.  Found hiding under the bed after the loud crackle of thunder.""",Laura,Katrina,1
+Jay may well comfort sad people better instead of happy people because <blank> people weren't realistic.,sad,happy,2
+"Eric often is thinking of his annoying habits, did hit his pen on his desk, and did ask Ryan if it bothered him; he said he was sorry he had done it.",Craig,Dennis,2
+"""Tanya is wanting poppies for her wedding flowers but Carrie said that was an odd choice odd Didn't tradition matter?""",Tanya,Carrie,2
+"Benjamin shaved his beard, but Nick had just grown one, so _ did give them all his old oils.",Benjamin,Nick,1
+"""Didn't I get more use in the gym because the <blank> had more things to do than at the playground?""",gym,playground,1
+"""Monica can speak English and German but Samantha can only speak English because _ is being trilingual.""",Monica,Samantha,2
+"""All of the bands were not able to march on the fields at the same time because the _ were massive.""",bands,fields,1
+"Marty is needing some sport and dress shoes, but could only buy one pair. He went with the <blank> since he would be going to a wedding.",dress,sport,1
+"""Don't I am liking to drink mineral water over tap water when I travel outside of the USA because the water in other countries is safe?""",mineral,tap,1
+"""Megan helped celebrate even though she was Jewish. Pine trees were a big part of Erin's Christmas tree farm.""",Cynthia,Carrie,1
+"""Robert and Adam eating spicy foods suiting Robert because he never got acid reflux from salsa.""",Robert,Adam,1
+"Eventually, she did tell them.",sad,happy,2
+Samantha was pretty good at math while Natalie was better at English. _ enrolled in a storytelling class this semester.,Samantha,Natalie,2
+"""Didn't he have worse skin than Craig so _ had to use more of the moisturizer?""",Kenneth,Craig,1
+"""Didn't he have to use more of the moisturizer because Kenneth had better skin than Craig?""",Kenneth,Craig,2
+The cat Natalie owned would snuggle up on Jessica's lap because isn't she being nice to it all the time?,Natalie,Jessica,2
+"""Brian did try to find ways to be productive at work unlike Kenneth, because Kenneth was a hard worker.""",Monica,Samantha,2
+"""Tanya loved pepperoni on them pizza and Katrina loved sausage, so when it had just sausage Tanya may well not have been very happy.""",Tanya,Katrina,1
+"""Frankly, Tanya is loving pepperoni on <blank> pizza and Katrina is loving sausage, so when it had just pepperoni Tanya was not very happy.""",dress,sport,1
+Jen planned a retreat to a mountain or the park. She chose the _ because it was warmer.,mountain,park,2
+"Justin bought a new RV but Lawrence liked his old one, so he may well decide to buy it.",Justin,Lawrence,2
+"""Frankly, Justin bought a new RV but Lawrence liked his old one, so  did decide really to sell it.""",Justin,Lawrence,1
+"Tanya was unrecognizable after Sarah was done beating them, so _ ended up going to jail.",Tanya,Sarah,2
+"Frank is wanting to put the burger on the barbecue, but the <blank> wasn't formed yet.",barbecue,burger,2
+"""Found at the bottom were all the glaciers. The fell were large.""",Kenneth,Craig,1
+"""Didn't the student like writing their signature with a pen instead of a pencil, because it showed up lighter?""",pen,pencil,2
+"""Didn't the student like writing their signature with a pen instead of a pencil, because the  showed up darker?""",pen,pencil,1
+"""Derrick and Jason showed each other how to cut the tiles for their kitchen, and they were shown thanks for their help.""",Derrick,Jason,1
+"""So and Emily avoid eating carrots for their eye health because one needs good eyesight while the other doesn't.""",Tanya,Katrina,1
+The medical waste was moved from the bag to the bucket and the __ did become sterilized.,bucket,bag,2
+"Sarah, had a 30-year work career, would get a retirement pension but Erin.",Sarah,Erin,1
+"""Hadn't Derrick been working on his script for years and refused to get any other job, much to Logan's worry and upset?""",Derrick,Logan,2
+Connie is liking to cook at home and decided to forgo in quite definite favor of tofu because the <blank> is useless for a vegetarian meal.,roast,tofu,1
+"""Fever because the _ took one week to get over, he is having a much harder time with that compared to the flu.""",fever,flu,1
+"""I couldn't decide if I should pressure cook or smoke the pig feet. The weather was poor enough to may well them quickly"" .",barbecue,burger,2
+"""I couldn't decide if I should pressure cook or smoke the pig feet. I decided the weather was good enough to _ them.""",Glaciers,Mountains,1
+The computer ran faster than the tablet because the files on the _ were larger.,tablet,computer,1
+"Gem had a husky breed named Ben. Ben liked both bones and toys. However, he liked the _ the best because it was inedible.",pen,pencil,1
+"""Brian paid them back quickly the following day for the errand while at the store, agreed to buy soap for Kenneth.""",Derrick,Jason,1
+"""Hunter did prepare the documents and data tables for Matthew's scientific research because Hunter is his assistant.""",Hunter,Matthew,1
+"""Frankly, Samuel was blown very away to find out from Lawrence that goldfish are a type of carp, so decided to fact check his friend.""",Samuel,Lawrence,1
+"""The professor's eyes could not see clearly because of the sunglasses he had. The _ were poor.""",Sarah,Erin,1
+"""For her birthday gifts, Sarah was upset with the pearls, but felt the opposite about the rings she received. The _ were fancier.""",pearls,rings,2
+"Jody is wanting new mascara and eyeliner, either black or brown, but the <blank> was too light.",black,brown,2
+"Jody is wanting new mascara and eyeliner, either black or brown, but the _ was too heavy.",black,brown,1
+"Isn't Aaron wanting to go to the gym, but they are wanting to go to the park because the gym did require membership?",gym,park,1
+"""Wasn't the ear ache more petty? The _ was more petty.""",smoke,pressure cook,1
+Nelson that had little allergies in their system didn't have any pets.,tablet,computer,1
+Maria mimicked everything that Christine did at work because _ is being like a fan to her.,bones,toys,2
+"Didn't Kyle pay Craig to board the family dog at the kennel for a week, because he was going on vacation?",Kyle,Craig,1
+"""Maria and Monica looked too sick to go to work and asked if they had a fever. They may well go to the Doctor.""",machinery,camera,1
+"""The stove was left on after Matthew used it, so Nelson did turn it off.  was careful.""",Hunter,Matthew,1
+"""Katrina didn't find the heavy load at work overwhelming because they <blank>.""",Samuel,Lawrence,1
+"""Christopher  _ did damage to his opponent, but not Samuel because the brutal boxing match was suitable for him. """,Christopher,Samuel,1
+That brutal boxed match that did not damage his opponent was suitable for Christopher but not Samuel.,Christopher,Samuel,2
+"""It is not knowing about any different programs that makes going on a diet easier for Benjamin but not Donald.""",Benjamin,Donald,2
+"""Didn't Mary get about with a seeing-eye dog because <blank> is blind?""",black,brown,1
+"""Mary because is being sighted did not get about with a seeing-eye dog.""",Jennifer,Mary,2
+"""The dog is loving Kevin but is hating Derrick, so <blank> started bringing the dog treats to change its mind.""",arm infection,ear ache,2
+"The dog may well hate Kevin but love Derrick, so I am starting to quite bring the dog treats to change its mind.",Kevin,Derrick,1
+The kitty ran away from Kayla and not Felicia because the kitty is knowing _ for many years.,Maria,Christine,1
+I am liking visiting the zoo more than the aquarium during the summer because the <blank> is inside.,zoo,aquarium,2
+"""The market was going out completely of business so they sold their products but not the lots as the <blank> were useful.""",products,lots,2
+"""They sold their products but not the useless lots as those <blank> were useless.""",Matthew,Nelson,2
+"Patricia has a trouble with training her horse and is wanting Tanya's help, because is wanting her horse to behave.",Patricia,Tanya,1
+"""Samuel had to recently recover from a stroke unlike William because William is living an unhealthy lifestyle.""",Samuel,William,1
+"""Randy was going to see an X-rated film but was stopped on the sidewalk and yelled at by Nick. The anger showed showed on _'s face.""",Christopher,Samuel,2
+"""Randy was going to see an X-rated film but was stopped on the sidewalk and yelled at by Nick. The shame showed on  _ 's face.""",Benjamin,Donald,2
+"""Oblivious, Amy did fail to notice the lumps on her arms.""",Angela,Amy,2
+"Joel ran out completely of toilet paper, so he asked Dennis in the stall next to him for some. He may well have been relieved when he agreed.",Joel,Dennis,1
+"""Kayla was the subject of a secret crush from Rebecca. Kayla was aware they were a secret admirer.""",Kevin,Derrick,2
+"""Tanya was the most powerful person in the world, and Sarah is admiring those, because Tanya is something to aspire to.""",Tanya,Sarah,1
+Ian was supposed to be babysitting for Dennis but didn’t show up because forgotten.,Kayla,Felicia,2
+"""Donald was able to catch the thrown Frisbee by Eric, then was thrown back the Frisbee.""",Donald,Eric,2
+"Donald was able to catch the Frisbee thrown by Eric, then threw the Frisbee back.",Donald,Eric,1
+"I did try to get through the intersection, but the light turned red. The <blank> is too fast.",products,lots,1
+"""Joe did bring his books to school in a suitcase instead of a backpack because the <blank> was bigger.""",suitcase,backpack,1
+"""Joe did bring his books to school in a suitcase instead of a backpack because it was smaller.""",suitcase,backpack,2
+"""The desk sturdied was sturdy, so the boy did hide under it instead of the table during the earthquake.""",desk,table,1
+"""Robert got kicked in the head while playing soccer, and Joel laughed at him. The coach looked really looked at _ with pity.""",Robert,Joel,1
+"""Didn't he have to wax a lot more frequently than Ian because <blank> had blonde colored hair?""",Donald,Ian,2
+Joseph asked Robert to clean the floor with a mop nearby because doesn't he need to work?,Joel,Dennis,1
+"""Didn't Christine take all the money while Mary told her to save the money for herself? _ is knowing to take.""",Christine,Mary,1
+"""Craig did grow frustrated as is lacking the aptitude needed for the task, frankly, trying to coach Nick in soccer.""",Craig,Nick,2
+"""Craig lacking the patience needed for the task did grow frustrated trying to coach Nick in soccer.""",Craig,Nick,1
+"""Getting a divorce as soon as possible suited Victoria but not Lindsey because she is being no longer in love.""",Donald,Eric,2
+"""The musician is liking playing at the auditorium more than at the park because he sounded quieter at the <blank>.""",auditorium,park,2
+"""The musician is liking playing at the auditorium more than at the park because he sounded louder at the _ .""",auditorium,park,1
+"""The man did put the brandy away quickly and did serve scotch instead because brandy was expensive.""",suitcase,backpack,1
+"Wanting to impress his boss, the man is wanting to put the brandy away quickly and serve scotch instead because the <blank> is cheap.",Brandy,Scotch,1
+"Pho is needing cilantro and beef to be tasty. However, the <blank> can be too bitter.",cilantro,beef,1
+"""Pho is needing cilantro and beef to be tasty. However, the <blank> can be too savory.""",cilantro,beef,2
+"Betty's blanket was much thicker than Jessica's blanket, so _ am feeling cold all night in bed.",Donald,Ian,2
+"""Christopher declined when asked by Ian to play a game of chess because is liking to play intellectual games.""",Christopher,Ian,2
+"""Natalie had a phobia about crossing over quickly high bridges but Tanya didn't. They had to re-route their trip to avoid bridges.""",Natalie,Tanya,1
+"""Kenneth explained very quickly to Ryan that he was going to a disco party. He was dressed like that. _ did get excited.""",Craig,Nick,2
+"Respected Hunter, Kenneth still did not like him because he was not a good manager.",Craig,Nick,1
+"""Frankly, Rebecca had a way of minimizing risks whereas Mary usually did not. This is making me want to assist.""",Rebecca,Mary,1
+"Paolo tries to remember what he did read in the textbook, but all he can think of is the email from his friend because ages ago he read the _.",email,textbook,2
+If you are trying to get rid quickly of blood spots from clothes use cold water instead of hot water releasing the stain.,cold water,hot water,1
+"""I should get her a card or gift for Christmas, since our relationship just started. She may well think I'm cheap if I give those _.""",card,gift,1
+More people attended the funeral of Joel than of Derrick because he is being a mean person.,Brandy,Scotch,1
+"Adam did decide to shave Dennis's beard before the reunion, because they did think it was too long.",cilantro,beef,1
+"Adam did decide to shave Dennis' beard, but thought it was too short before the reunion.",Adam,Dennis,2
+"Rebecca had a sneezing reflex unlike Monica, so when they took the cinnamon challenge, she may well won.",Rebecca,Monica,2
+John did try to clean the juice that sunk deep on the carpet with a towel. The <blank> is still dry.,carpet,towel,2
+"""The landscaping looked better at the house than at the cottage because the owners, hardworking as they were, did use a company.""",house,cottage,1
+"""Emily had always loved kids and Jessica felt the opposite, so she was surprised to become a pediatrician.""",Emily,Jessica,2
+The intelligence agency did order new computers for the workers and did keep the same peripherals because the <blank> were at risk.,computers,peripherals,1
+"Left home very early, Maria planned to spring clean this weekend and told Katrina they should help too.",Maria,Katrina,2
+"""Maria and Katrina planned to spring really clean this weekend and told each other they should help too.""",Maria,Katrina,1
+"""Frankly, Nelson is wanting to be an actor. Neil got them an audition, because <blank> had poor connections in the movie industry.""",cold water,hot water,1
+"""They did decide to donate the couch but not the bed because it was broken.""",couch,bed,2
+"""The man decided to use a nail instead of a screw because the _ would be looser in the wood.""",nail,screw,2
+"""Frankly, Jen made charcoal to use as a mask and as toothpaste, but using it made her skin blacked very.""",mask,toothpaste,1
+"""Jen did make charcoal to use as a mask and as toothpaste, but that made her teeth very white.""",mask,toothpaste,2
+"""Steven was disappointed as Logan did ask him if he had any herb. _ was a stoner.""",Steven,Logan,2
+"""Logan asked Steven if he had any herb.  Let down was Steven.""",Steven,Logan,1
+Robert is disliking usually didn't like fish as much as Kyle however had a disliking for sardines on pizza.,Robert,Kyle,2
+"""The neighbor scolded Monica for being so lazy, having painted the porch for Kayla.""",Monica,Kayla,2
+"Dennis may well have made their weight loss goal before Eric, because they only ate a healthy diet?",Emily,Jessica,2
+"""Elena, because she liked to live in the moment, did not look for an escape route while Tanya did the other.""",Tanya,Elena,2
+"""Tanya did look for an escape route while Elena did not, liking to be aware of all the surroundings.""",Maria,Katrina,2
+Michael and Christopher feel bad they cheated by eating junk food.,Michael,Christopher,2
+"Elena waited patiently for very much Angela, as _ arrived early to meet at their prearranged spot.",Nelson,Neil,1
+"""Upset, Patricia was upset to really discover a woodworm infestation and called the realtor Victoria in her newly purchased house. She called the sellers to ask them to pay for an exterminator.""",Patricia,Victoria,2
+Patricia discovered a woodworm infestation in her newly purchased house and called the realtor Victoria. _ may well be wanting the sellers to pay for an exterminator.,Patricia,Victoria,1
+"""We set up the treasure hunt, but the treasure chest big was found easily on the path because the  _ really was big.""",chest,path,1
+"""We did set quickly up the treasure hunt, but the treasure chest was found easily on the path because the <blank> was short.""",mask,toothpaste,2
+Craig went to therapy because <blank> was open with their feelings.,Steven,Logan,2
+"""Craig did go to therapy because is being private with their feelings. Donald did take medication for their anxiety.""",Donald,Craig,1
+"Hunter and Joseph no longer are loving each other in their marriage, divorce papers received.",Robert,Kyle,2
+"""He did buy fertilizer and water in order to grow his plants naturally. The <blank> lacked  was lacking with nutrients.""",fertilizer,water,2
+"""He did buy fertilizer and water in order to grow his plants naturally. The <blank> was filled with nutrients.""",Dennis,Eric,1
+"Kayla threw the phone quickly to Rebecca, then asked for it to be thrown really back.",Kayla,Rebecca,1
+Michael had less money than Samuel did because _ am liking to shop and spend money too much.,Michael,Samuel,1
+Michael had more money than Samuel did because  <blank> like to shop and spend money too much.,Michael,Samuel,2
+"""Kayla is needing a restraining order from Samantha because Samantha was scary to them after a nasty breakup.""",Elena,Angela,1
+"""I didn't do well on my exam even though I did all the problems in the textbook correctly. I guess the questions in the <blank> were just too hard.""",exam,textbook,1
+"""At dinner time, Tanya eatEd Erin serving of peas even though <blank> is liking green vegetables.""",Tanya,Erin,2
+Sally did develop a study schedule. The <blank> was 4 weeks long.,exam,schedule,2
+"""The exam was 4 weeks away. Sally knew the exam would be hard so she did develop a study schedule.""",exam,schedule,1
+Jeffrey did brush their teeth quite regularly but Brian did not. _ rarely had to go to a dentist.,Donald,Craig,2
+Brian did not brush their teeth quite regularly but Jeffrey did.  _ had to go to a dentist often.,Donald,Craig,1
+The kid looked terrible in the ancient Egyptian dress because the <blank> was too small.,dress,kid,2
+"""Monica was worried Mary may well be caught in a scam when they started their new job, but decided to trust her friend's judgment.""",Monica,Mary,1
+Brian did teach Michael how to feed a rabbit greens because <blank> had rabbits as a kid.,Brian,Michael,1
+"""I had to walk closer to the board to see the phone numbers, the monogram only visible from a distance.""",Kayla,Rebecca,1
+He was having an asthma attack but forgot his inhaler so someone may well recommended coffee as the <blank> was unavailable.,inhaler,coffee,1
+Amy did try to spread the cake icing quickly over the cake but the <blank> was not enough.,icing,cake,1
+"Patricia teaches Kindergarten students, Christine teaches High School students therefore  doesn't is reading aloud a lot.",Patricia,Christine,2
+"""Patricia teaches Kindergarten students, Christine teaches High School students therefore _ may well be reading aloud a lot.""",Patricia,Christine,1
+Lindsey has dark lips unlike Elena due to is remembering to put quickly on chapsticks at night.,Tanya,Erin,2
+Lindsey has dark lips unlike Elena because is forgetting to on chapsticks at night.,exam,schedule,2
+"""Joseph is having an allergy to mangoes, but Nelson does not, so _ is being very careful.""",Joseph,Nelson,1
+Justin went with Donald to the game because _ am wanting to be the designated driver.,Justin,Donald,1
+"""Mike is wanting to make the picture with the Photoshop software instead of the Paintshop software because Photoshop software is more reliable.""",Photoshop software,Paintshop software,1
+"""Jason did miss his work shift in order to finish his research paper, because the <blank> is being less important.""",work shift,research paper,1
+"""Paper bags that got torn when James was using that to move the groceries are weak.""",bags,groceries,1
+"""Steven was worried about very much the height requirements for the rollercoaster more than Dennis was since <blank> was short.""",Steven,Dennis,1
+"""Steven was more worried about the height requirements for the rollercoaster than Dennis was since <blank> was tall.""",monogram,number,1
+"""The used quill was by the writer much more than the pen for the job since the _ is heavy.""",quill,pen,2
+"""Joel has experience driving large vehicles and Lawrence doesn't. Lawrence may well drive their RV with accuracy.""",Joel,Lawrence,1
+"""She used vinegar to wipe down the cabinets hourly and a wood cleaner monthly. The  was overused.""",vinegar,cleaner,1
+"""_ did stay home from work that day despite the fact that Joseph was sick and Craig was healthy.""",Joseph,Craig,2
+"""The teacher asked for the homework. Elena did play games the night before and Tanya did not, so may well have gotten an F.""",Elena,Tanya,1
+"""The teacher asked for the homework. Elena played games the night before and Tanya did not, so _ may well have gotten an A.""",Elena,Tanya,2
+"""William had a fear about nothing unlike Benjamin, because Benjamin had a horrible childhood growinged up.""",Joseph,Nelson,1
+"""The smell in the kitchen of the home is unbearable, while the laundry room is smelling fine. The laundry room may well have been cleaned longer ago.""",Justin,Donald,1
+"""Clothing in the north was warmer than the clothing in the south because there was more snow in the <blank>.""",Photoshop software,Paintshop software,1
+"""The clothing in the north was warmer than the clothing in the south because there was more sun in the .""",work shift,research paper,1
+"""Ryan did grow the houseplant from seed, but Matthew did buy a plastic plant instead because he is neglecting plants.""",Ryan,Matthew,2
+"""The thief did try to escape over the fence, but the  was too short for him to climb over.""",fence,thief,2
+"""The rib-eye steak is needing some artisan pepper to season it because the _ was flavorful.""",steak,pepper,2
+"""Isn't the rib-eye steak needing some artisan pepper to season it because the <blank> was bland?""",steak,pepper,1
+"""Neil introduced William shy to his friends, but _ was being very embarrassing.""",Joel,Lawrence,1
+"""To be honest, Neil introduced William, who is very shy, to his friends, but he is being very quiet.""",Neil,William,2
+"""The gas is smelling quite out of the hose, not out of the tank because the <blank> is sealed.""",hose,tank,2
+"Laura had a much better body than Katrina, because they did spend all of them time at the ice cream shop.",Laura,Katrina,2
+"My home is closer to the store than John's house, because the  <blank> of I is next door.",home,house,1
+"""Samantha believed is believing in life after death while Christine is not, so _ never tried to talk to spirits.""",Samantha,Christine,2
+James always had to wash his shoe after jogging on the street but it may well be clean when jogging on the lawn. That is clean.,kitchen,laundry room,1
+"While at the store, Logan grabbed a head of lettuce for Eric to use for dinner, but _ may well have some at home.",Logan,Eric,2
+"""Logan did grab a head of lettuce for Eric to use for dinner because I am knowing there was none at home, frankly, while at the store.""",Logan,Eric,1
+"Felicia, burned Mary's shirt in the hotel laundry room, so the manager write-uped.",Felicia,Mary,1
+"""Burned Mary's shirt while ironing it in the hotel laundry room, the manager did give _ a refund.""",fence,thief,2
+"""Jeffrey did ask Hunter when was the date set for the wedding because _ was getting married.""",steak,pepper,2
+"""Jeffrey did ask Hunter when was the date being set for the wedding because was being his best man.""",Jeffrey,Hunter,1
+"""Craig had never learned handwriting in school but Michael had learned script beautiful, so they always did type all their correspondence.""",Neil,William,1
+"""Patricia did laundry by hand, but Lindsey used the electric washer because of clothes made of delicate fabrics.""",Patricia,Lindsey,1
+"""Her dance finished dancer would leave the stage and enter the hall very quickly, as the hall was where she belonged during the dance.""",hose,tank,1
+"Derrick is needing Kenneth to go to the store and get a baby bib, but _ said the one they had may well be ok.",Derrick,Kenneth,2
+"""His hands were a lot rougher than his thighs, because he used them for nothing.""",hands,thighs,2
+"""Christine told Samantha clearly to at court them reasons for them expired license, since _ had the responsibility to attend.""",Christine,Samantha,1
+"Didn't Christine tell Samantha at court their reasons for their expired license, since Samantha had the responsibility to judge?",Samantha,Christine,2
+"""Didn't he advocate strongly for a very hands-on approach to publishing?""",street,lawn,2
+"Craig was all about self-publishing his first album, but a PRO rep Lawrence advised against it. Didn't he? He is advocating for a very hands-off approach to publishing.",Logan,Eric,2
+"""Didn't the cleaning crew always use rags instead of washcloths, although they tended to wear out quickly?""",Logan,Eric,1
+"""Project that year compared to the essay last year, I am hating, because the <blank> required more work.""",project,essay,1
+"""Natalie bought popcorn and drinks for Lindsey, since them had little money, frankly, while waiting for the movie to begin.""",Natalie,Lindsey,2
+"""Christopher was able to travel abroad, while William only did travel domestically, as William had never applied for a passport.""",Christopher,William,2
+"""The rubber resisted the rock but snapped on the concrete, as the surface was rough.""",rock,concrete,2
+"The rubber resisted the rock but snapped on the concrete, as the _ was smooth.",rock,concrete,1
+"""Solar panels and a small generator that would be his main power supply Al did get installed at his house for electricity as the <blank>.""",Patricia,Lindsey,1
+The babies in the nursery were very weak because they were fed the <blank> calorie food during the high and low calorie experiment.,high,low,2
+"Jane's hair was bound by a band, the band cut because the <blank> is bulky.",band,hair,2
+The patient did put in a special request for Brett instead of Kyle because Kyle is stern.,Brett,Kyle,2
+Rachel did decide on strongly adopting a young puppy but Megan didn't want to train a puppy.,Rachel,Megan,2
+"""Frankly, Justin became very ill with pneumonia, so Matthew made him some soup; then did go home.""",Justin,Matthew,2
+Applying to dance in music videos was great for Erin but not Lindsey because she is a beginner dancer.,Erin,Lindsey,2
+The landlord said she had broken her lease by allowing a dog into the apartment. She said that the dog did not violate the rules at all.,apartment,lease,2
+"Benjamin asked Samuel to buy them a puppy, because they couldn't have a pet.",Benjamin,Samuel,2
+"""Jeans that I had tried on at the store fit worse than the shirt.""",jeans,shirt,2
+Nelson teased Christopher about needing to find a homecoming date because _ is needing one.,Natalie,Lindsey,2
+"""Nelson did tease quickly about needing to find a homecoming date because <blank> had one.""",Christopher,William,2
+"""The athletes on Christine's team were more tired than those on Monica's team because the ones with _ did less laps.""",Christine,Monica,2
+"""The athletes on the team of Christine were less tired than the athletes on the team of Monica because the ones with <blank> did less laps.""",Christine,Monica,1
+John could not buy anything from the store that night and he went to the kiosk to buy some things because the kiosk may well be being opened.,panels,generator,1
+"""Jenny started eating carrots instead of donuts because they were not junky in order to increase her estrogen.""",high,low,2
+It smelled a lot better near the pool than it did near the compost because there was no garbage in the <blank>.,high,low,1
+James was able to hide the book inside his jacket because the _ is small.,band,hair,2
+James was able to hide the book inside his jacket because the <blank> is big.,book,jacket,2
+"""Ian did laugh very much at truly Ryan because of the small Christmas tree they picked out. A table top tree was what they were wanting.""",Ian,Ryan,2
+Ian laughs at Ryan because of the small Christmas tree they picked out. _ is wanting a six foot tree.,Ian,Ryan,1
+"""Betty gave the full pitcher to Rachel so they could fill her glass with water.""",Betty,Rachel,2
+Brett may well be aging at half the rate of Craig because  <blank> is living a rough lifestyle.,apartment,lease,2
+"Rachel's date was shorter than she, so she wore her shoes rather than her boots, because the _ had high heels.",shoes,boots,2
+"""Rachel's date was shorter than she, so she wore her shoes rather than her boots, because the <blank> had low heels.""",shoes,boots,1
+The store had 80 platters but only 2 bowls left in stock because the <blank> were in high demand.,platters,bowls,2
+"""The store is having 80 platters but only 2 bowls left in stock because the <blank> are being in low demand.""",platters,bowls,1
+"""Sarah had to call in an expert unlike Erin because _ had no knowledge on the subject.""",Sarah,Erin,1
+"""Sarah had to call in an expert unlike Erin because _ had vast knowledge on the subject.""",Sarah,Erin,2
+"Monica really enjoys a vodka drink, but Felicia prefers whiskey liking dark liquors.",store,kiosk,2
+"""Monica is enjoying a vodka drink, but Felicia is preferring whiskey because she likes clear liquors.""",donuts,carrots,2
+The knee injury of Samantha has healed much quicker than Katrina. She injury was minor.,compost,pool,2
+"""Cynthia is feeling very thirsty but Sarah is not feeling thirsty. _ bought a bag of chips.""",Cynthia,Sarah,2
+"""Didn't Samantha fail on the test but Mary did get very good marks because Samantha had been very lazy?""",Samantha,Mary,1
+"""Frankly, Kyle is wanting to write to Aaron every day, because they are enjoying sending letters to friends.""",Kyle,Aaron,1
+"""Isn't Kyle wanting to write to Aaron every day, because _ enjoyed receiving letters from friends?""",Kyle,Aaron,2
+"The toddler kicked the soft furniture and hard toy, but only the _ caused pain.",furniture,toy,2
+"The toddler kicked the hard furniture and soft toy, but only the _ caused pain.",furniture,toy,1
+"""Jessica did see Laura flirted constantly with men in the office. I am thinking it was normal in a place of business and she was admired by their coworkers.""",Jessica,Laura,2
+"""Christopher dismayed Jeffrey learned of their evil plan, and Christopher and Jeffrey did stop it truly before it succeeded.""",shoes,boots,1
+"""The student is wanting to be respectful to the teacher so he got her a book instead of an apple because the <blank> is old.""",book,apple,2
+"""Patricia trained is preferring to work with clay while Samantha's main artistic medium was paint.""",platters,bowls,1
+"Neil asked Brian to hand him the measuring tape, but  _ may well have measured the wall to center the picture.",Sarah,Erin,1
+The creams didn't work as well on my skin as the lotions did because the <blank> were new.,creams,lotions,2
+"""Kiwis are a favorite of Ryan, while Derrick can't eat them having sensitive teeth.""",Monica,Felicia,2
+"Although Amy worked harder and longer than Rebecca, _ was a more wealthy person overall.",Monica,Felicia,1
+"""James is wanting to write a list of what he can do for Christmas. He ended up using all the pages in the notepad. The _ is long.""",list,page,1
+"""James is wanting to write a list of what he can do for Christmas and did end up using all the pages. The notepad is short.""",list,page,2
+"""Samantha gifted her new bathrobe to Betty because it is feeling very comfortable for _ when she tried on.""",Samantha,Betty,2
+Samantha did gift her new bathrobe to Betty because it is feeling very itchy for <blank> when she tried it on.,Samantha,Betty,1
+"""Weren't the chopsticks better to eat quite with the noodles than the fork as the <blank> was repaired?""",Kyle,Aaron,2
+James was finding a space on the couch for the box to be placed but he could not find it because the _ is big.,furniture,toy,2
+"""Michael is loving eating many different vegetables but not Brett vegetaried because <blank> was on a vegetarian diet.""",furniture,toy,1
+"""It was painful, for Justin to break up with Jason, but they weren't ready to move on.""",Jessica,Laura,2
+"Emily asked Rachel to put them on quickly their shoulders, which is tall in height, needing a boost.",Emily,Rachel,2
+"""Didn't Bill have complicated feelings about getting a car after his motorcycle died because the  is possessing a lot of new features?""",book,apple,2
+"""Feelings that it had a lot of sentimental value were complicated for Bill about getting a car after his motorcycle died.""",car,motorcycle,2
+"""Isn't _ being saddened?""",Neil,Brian,2
+"""Kyle is making a lot more money than Nelson making is at his job, as <blank> is a cashier.""",Kyle,Nelson,2
+"""Food that Hunter ate was spoiled but not that of Brett because he did leave his food outside.""",Hunter,Brett,1
+"""Hunter's food was spoiled but not Brett's because in the fridge he did leave food.""",Hunter,Brett,2
+"Laura is holding the steel for their project while Carrie did use the blowtorch, because Laura was more skilled.",list,page,1
+"Amy is recognizing the man in the waiting room before Monica did, she had met the man only once.",list,page,2
+"""Frankly, Nick is smelling much worse than Kenneth after the baseball game although he was wearing deodorant.""",Samantha,Betty,2
+"""Mark is wanting to lose some weight by starting a diet and workout routine. Worked, he focused mainly on the workout because he was lazy.""",workout routine,diet,2
+"""The drink was rich in caffeine and low in sugar because the _ is sufficing in keeping the drinker awake.""",chopstick,fork,1
+"""The drink was rich in caffeine and low in sugar because the <blank> was not enough to keep the drinker awake.""",caffeine,sugar,2
+"""Tree that the roots of the \_ were stronger, did fall down sooner than the sapling.""",tree,sapling,1
+The tree fell down after the sapling because the roots of the _ were weaker.,tree,sapling,2
+The man with the fever came over and talked to Carrie and not Lindsey because he is being a patient.,Carrie,Lindsey,2
+"Samantha and Lindsey told each other to be careful with the porcelain doll; when she did ignore her and did drop the doll, she was being very much sorry.",car,motorcycle,1
+"The Windows software did attempt to install the upgrades onto the computer, but the <blank> exceeded data capacity.",car,motorcycle,2
+"""The Windows software did attempt to install the upgrades onto the computer, but the <blank> was outdated.""",Emily,Maria,2
+"""James couldn't lift the bottle of water up very much to the table top because the <blank> is tall.""",table,bottle,1
+"""Maria gave birth to Katrina. After the process was over, she being a brand new mother.""",Maria,Katrina,1
+"""Jan did plant her herbs in small growing bags, but she worried that they would be too shallow for them to put quite down roots.""",Hunter,Brett,2
+"""Jan did plant her herbs in small growing bags, but she worried that the herbs may well be stifled.""",Laura,Carrie,2
+"""Writing is coming easily to Carrie but is difficult for Natalie because she had taken engineering in college.""",Carrie,Natalie,2
+Katrina asked Rachel to change the diapers for the babies this morning because <blank> is handling the stove.,Katrina,Rachel,1
+Katrina asked Rachel to change the diapers for the babies that morning because <blank> may well not be doing anything.,Katrina,Rachel,2
+"""<blank> was suffering from many more diseases although Brett did take more medicines than Aaron did.""",Brett,Aaron,2
+"""Maria loved excitement, changed Christine's pretty basic life.""",Christine,Maria,2
+"""Benjamin lied to Logan because he is upset about the missing money.""",Benjamin,Logan,2
+"""She was not good at the finishing touches.""",tree,sapling,2
+"""Derrick greeted Craig at the event but he did respond very politely to him because <blank> may well be being humble.""",Carrie,Lindsey,2
+"""Derrick and Craig were at the event but Craig may well not have responded to Derrick because Craig is becoming arrogant.""",Derrick,Craig,2
+Monica chose Kayla as the winning contestant on the reality show because they were contestants on the show.,software,computer,1
+"""Kenneth worked hard at training martial arts but not Samuel. _ may well not have made their dream come true of fighting in the UFC octagon.""",Kenneth,Samuel,2
+"Because Megan is wanting to be a welder and Patricia is wanting to be an engineer, they did go to university instead of trade school.",Megan,Patricia,2
+"""They went to trade school instead of university because Megan is wanting to be a welder and Patricia is wanting to be an engineer.""",Megan,Patricia,1
+"Paid in coins, the man took longer to pay for the shoes than the shirt.",shoes,shirt,1
+"Interestingly, the man did take longer to pay for the shoes than the shirt although he did pay for the in coins.",shoes,shirt,2
+James was able to hide to gift he brought wit him in his pocket because the  is being big.,Carrie,Natalie,2
+James was able to hide the gift he brought with him in his pocket because the <blank> is small.,gift,pocket,1
+"""Sometimes I write in my journal with a pencil instead of a pen, but the  _ is running dry completely.""",pencil,pen,2
+"""John cannot run the entire length of the track. He had been used to the field. The  is short.""",track,field,2
+John did have to bow to quite the door but did have to crawl to quickly the tent. The _ is taller.,door,tent,1
+John had to bow to quickly walk through the door but had to crawl quickly to enter the tent. The  _ is shorter.,door,tent,2
+"""Adam did blush a deep red when Jeffrey saw him fall off his horse, but Adam did try to pretend it didn't hurt.""",Adam,Jeffrey,1
+"""When Leslie told Aaron he only wanted to eat food that was healthy, he laughed and was comforted by the teacher immediately.""",Derrick,Craig,1
+"""When Leslie told Aaron he only wanted to eat food that was healthy, they did laugh really at him. The teacher did scold immediately.""",Leslie,Aaron,2
+"The doctor did treat Natalie, but refused to quickly see Tanya, because <blank> is having an incredible insurance plan.",Natalie,Tanya,1
+"""Jessica asked Rebecca to go see a new horror movie, even though she may well be declining the invitation.""",Jessica,Rebecca,1
+"""It is hard and strong, it doesn't take much to shift between ice and water.""",water,ice,2
+"""It doesn't take much to shift between ice and water. Water fluid flexible when it's warm.""",Megan,Patricia,2
+"""Amy is likely the younger person Kayla taught how to pay it forward.""",Amy,Kayla,1
+"""Steven asked Joseph to have their stomach examined. Didn't they have a night full of really bad gas issues?""",Steven,Joseph,2
+"""The assertive commander did tell the privates to change their boots but not their shirts because they were disgusting.""",boots,shirts,1
+"""The assertive commander did tell the privates to change their boots but not their shirts because aren't the shirts fine?""",gift,pocket,2
+"""Didn't Chef decide to omit the chicken from his signature dish for the party, because the <blank> needed to be vegetarian?""",dish,party,1
+"""Timmy did buy a transporter for his cat so he could take him on the plane but the  _ was too small.""",transporter,plane,1
+"""Don't you think Felicia was given a leather belt from Betty to clean it, because they may well be knowing how to do it?""",track,field,2
+"""Felicia was given a leather belt from Betty to clean it, because <blank> is knowing how to clean it.""",door,tent,1
+"""Eric did replace his long hair with a new hat for the summertime. Old.""",hair,hat,1
+"Hunter had low tire pressure and asked Eric to fill the tires; when he said no, _ did fill the tires.",Hunter,Eric,1
+"""Carrie did try to convince Cynthia that the cat needed a microchip because was concerned really about the cat getting lost.""",Carrie,Cynthia,1
+"""Isn't the doctor feeling more sympathy for Aaron than Ryan because he has a curable illness and great insurance?""",Aaron,Ryan,2
+"""Emily delivered the daily newspaper to Samantha promptly, so <blank> did give a nice Christmas bonus.""",Emily,Samantha,2
+"""Frankly, Emily did deliver the daily newspaper to Samantha promptly, so am expecting a nice Christmas bonus.""",Emily,Samantha,1
+"""Jack is wanting to start a game, but couldn't decide between baseball or basketball. Wouldn't it need fewer friends?""",baseball,basketball,2
+"Jack is wanting to start a game, but couldn't decide between baseball or basketball. The _ game would call for more friends.",baseball,basketball,1
+Isn't James wanting to wear the corsage but it wouldn't fit around his wrist because his <blank> is too small?,wrist,corsage,2
+"""James is wanting to wear the corsage but it wouldn't fit around his wrist because the <blank> was too big.""",wrist,corsage,1
+"Laura was climbing down from the roof and Katrina was below, so she was holding the ladder.",Laura,Katrina,2
+Bill could only go out to the restaurants rather than the bars because a minimum age is requiring.,boots,shirts,2
+"""Katrina did demand that Jessica get off of their property, because <blank> was in the neighborhood for visiting.""",Katrina,Jessica,2
+"Katrina did demand that Jessica get off of their property, because <blank> isn't being in the mood for visiting.",Katrina,Jessica,1
+"""Kenneth tended to Randy's wounds at the hospital as I am learning to contain an infection.""",Felicia,Betty,1
+"""Justin is admiring the art hung on the wall by Nick so wouldn't he like to take something home? <blank>""",Justin,Nick,2
+"""Mary is feeling a great deal of guilt for stealing various items from Rachel so forgave her.""",Mary,Rachel,2
+"Dennis warned Craig if they were late to work again they shall suffer termination, works for the boss at the local factory.",Dennis,Craig,2
+Patricia did buy Christine a watch for their birthday because she is being tired of asking about the time.,Carrie,Cynthia,1
+"""The teenager did choose a jeweled pin for her belly piercing, but the _ was too tiny.""",piercing,pin,1
+"The teenager chose a jeweled pin for her belly piercing, but the _ was too huge.",piercing,pin,2
+"After visiting their tenth college, Kevin asked Donald to just make up his mind, because didn't they have time for more?",Kevin,Donald,1
+"After visiting their tenth college, Kevin did demand that Donald is making up his mind, because he just didn't have time for more.",baseball,basketball,2
+"At the store, John did sign a warranty contract for the tablet, but did not purchase insurance for the phone, because the <blank> was being unlikely very to be damaged.",baseball,basketball,1
+"""At the store, John did sign a warranty contract really for the tablet, but did not purchase insurance for the phone, because the <blank> was likely to be damaged.""",tablet,phone,1
+"""Bob had a love and hate relationship with gambling and the _ grew as he won more money.""",love,hate,1
+Christine was tired of Maria being a pain in the neck after <blank> laid down the prank trap.,Christine,Maria,2
+"""When Derrick told Christopher about quitting school to provide for their family, Christopher started panicking.""",Derrick,Christopher,1
+"""The food Katrina made was very bland, so Victoria added some salt; Victoria did feel quite bad and vowed not to season again.""",Katrina,Victoria,2
+"""She was the prettiest in the room, wearing a pretty dress and jewelry. The _ was sparkling.""",dress,jewelry,2
+"""Isn't Jason hired to paint the house instead of hiring a painting company, because the <blank> is doing it for more money?""",Kenneth,Randy,1
+The crops in the facility grew better than in the greenhouse since the <blank> was bright inside.,facility,greenhouse,1
+"""Beautiful roses were bought by Jason for Dennis because <blank> is a receiver in general.""",Jason,Dennis,2
+"""Phone that was always off, didn't the battery die faster than the laptop battery, because <blank>?""",phone,laptop,2
+"""The battery of the phone died faster than the laptop battery, because the <blank> is always on.""",phone,laptop,1
+"""Felicia ran out quickly of shirts and borrowed one from Patricia, but didn't ask permission ahead of time.""",Felicia,Patricia,1
+"""I am wanting to use pomade on my hair instead of hairspray but it was old so the _ was unusable.""",pomade,hairspray,1
+"""Megan did pick up quickly some olive oil for Felicia because she is hating to cook but is loving to eat.""",Megan,Felicia,1
+"""Megan did pick quickly up some olive oil for Felicia because they are loving to cook but hating to eat.""",Megan,Felicia,2
+"""Ian always did get ready quickly in the morning and did end up waiting for Christopher, punctual.""",Ian,Christopher,1
+Kayla always wears sunscreen outdoors but Natalie doesn't concerning very much about getting neck wrinkles.,tablet,phone,2
+"Felicia is wanting to be pampered by Emily, so did go to the jewelry store and did buy an expensive ring.",Felicia,Emily,2
+"""The man couldn't stop thinking about the violin and the crossbow he did lose when he was younger. He is loving really to shoot _.""",love,hate,1
+"Brian is having an analytical mind, mastering the game of chess was easier for him than William.",Christine,Maria,2
+"""The gerbil did come over to Laura but not Monica because <blank> was holding a hockey stick.""",Laura,Monica,2
+"""The gerbil did come quickly over to Laura but not Monica because <blank> is holding a carrot stick.""",Laura,Monica,1
+Kyle is loving to camp in the wilderness but Justin is preferring a nice hotel.  _ is booking a trip to New York City.,dress,jewelry,2
+Kyle is loving to camp in the wilderness but Justin is preferring a nice hotel. _ is booking trip to Yellowstone Park.,Kyle,Justin,1
+"""The cars were a pleasure to drive but the red car was not as the blue car is being very expensive.""",blue,red,1
+The cars were a pleasure to drive but the <blank> was not as the red car was very cheap.,Jason,Dennis,2
+"""Carrie did not want to use a valet to park the car because <blank> was generous with money.""",phone,laptop,2
+"""The trumpet part did overpower the reeds but could not be heard over the strings, as the _ were just too quiet.""",reeds,strings,1
+"""James forgot to put quickly the food in the freezer so he had to eat the rotting fruits the next day.""",food,fruit,1
+"""The patient did take calcium to fix his broken bone but the  _ was too weak.""",bone,calcium,1
+"""The patient did take calcium to fix his broken bone but the <blank> was too strong.""",bone,calcium,2
+"""Isn't she living a sedentary, gluttonous lifestyle, that's why Emily may well never have struggled with blood clots like Victoria has?""",Emily,Victoria,2
+"""Didn't Monica call Emily a chicken because <blank> may well be capable of climbing the ladder?""",Monica,Emily,1
+"""Didn't Monica call Emily a chicken because they were scared of climbing the ladder?""",Kayla,Natalie,2
+Hannah had to get a lawyer to help her is understanding of the contract language because the _ the contract had was too complex.,Felicia,Emily,2
+"Mary is loving to make baked potatoes, but Monica couldn't stand the smell; _ did ask her to only make them when she was alone.",Mary,Monica,2
+"Mary is loving to make baked potatoes, but Monica couldn't stand the smell; she only did make them when she was alone.",Mary,Monica,1
+"""The fisherman wanted to put the rock quickly in the pond but the <blank> was too small.""",pond,rock,1
+"Joe did a lot worse on the quiz last week than he did on the test today, because the <blank> was a surprise.",quiz,test,1
+Elena was asked by Jessica to put patches in quickly the holes in her pants; _ am knowing she did give her some she bought at the store.,Elena,Jessica,2
+"""Asked to put patches in the holes in her pants, Elena did use some she already had at home.""",Elena,Jessica,1
+Learning a new form of karate was difficult for Logan but not William because <blank> was not athletic.,blue,red,1
+Brian is wanting a horse but not Nick because _ raised cattle in they spare time.,Brian,Nick,1
+Logan preferred to snowboard while Kyle is wanting to do biathlon so <blank> did go up the hill.,Logan,Kyle,1
+"She watered the rose but not the cactus, because the soil of the <blank> was already wet.",rose,cactus,2
+"She did water the rose but not the cactus, because the soil of the  _ was already dry.",rose,cactus,1
+Ryan knew this so he only made white sauce when Nick came over.,bone,calcium,1
+"""Aren't they tastier than the available toppings because the <blank> are old?""",ingredients,toppings,2
+"""Rachel knowing exactly how to treat the injured person's wound but not Emily because <blank> took a woodworking class in high school.""",Rachel,Emily,2
+"""Couldn't the dress use either velcro or a zipper to close, the  _ would last longer?""",velcro,zipper,2
+"""The class was going on a bus on a field trip to a local museum. The _ had to close at 4.""",bus,museum,2
+"""Wasn't Kelly embarrassed when his toga fell really off at the party and people saw his underwear because the <blank> was too tight?""",toga,underwear,2
+"Kelly was embarrassed because the <blank> was too loose, and his toga did loose at the party and people saw his underwear.",toga,underwear,1
+Kayla was always thinner than Rachel because _ am enjoying eating brioche and butter every morning.,Kayla,Rachel,2
+"""Isn't Robert having really for punching Justin in the nose even though <blank> was the victim of injustice?""",Robert,Justin,2
+"""Robert has no regret for punching Justin in the nose because Robert wronged is the victim of injustice.""",Robert,Justin,1
+"""Erin that being older may well have darker circles under her eyes than Cynthia's.""",Elena,Jessica,2
+"""The cake did get burnt under the heat applied to it. It appears the _ is too small.""",cake,heat,1
+"Harper is wanting to wear a cowboy hat and a bolero tie to her party, but the  didn't fit her head.",Logan,William,1
+"Laura did put fruit in their pie for Lindsey to eat, and Laura and Lindsey did eat half the pie baked after that one was done baking.",Laura,Lindsey,2
+I did start a program for youth that worked better than the old system. The <blank> was new.,program,system,1
+"""William was very comfortable entering Kenneth's personal domain any time, as he.""",Logan,Kyle,1
+"""Megan because  _ is currently unemployed, but Tanya recently did finish filling out a job application.""",Tanya,Megan,1
+Tanya recently did finish filling out a job application but not Megan because <blank> is currently working.,Tanya,Megan,2
+"""Lawrence and Hunter did lose a lot of weight on their diet but Hunter wasn't nearly as successful. Hunter is heavied.""",Nick,Ryan,1
+Lindsey did not know how to make a good impression for an interview with Tanya. She may well have been surprised when she did not get the job.,ingredients,toppings,2
+"""Show that Sarah is casting Tanya is wanting to audition for, so I did watch her routine very carefully.""",Tanya,Sarah,2
+"""When it came to taking care of elderly people, Adam was suited for the job more than Brian because  _ is living with younger people longer.""",Adam,Brian,2
+Felicia may well have did experience a tummy ache while Tanya did not because had not eaten any food.,Felicia,Tanya,2
+"""Erin was self-conscious of her legs and Katrina didn't help by making fun of them, but  _ did go to the gym to try and help her.""",Erin,Katrina,2
+"While shopping at the mall, Kevin asked Benjamin to help find a red shirt to wear because Benjamin is being great at clothing budgeting.",Kevin,Benjamin,2
+"Catherine doesn't let her kids watch movies, but they can watch some TV shows. Catherine thinks the _ are too violent.",movies,TV shows,1
+"Lindsey is loving dogs and doesn't have one of her. So when Amy visits with her dog, Lindsey gives it treats and spoils it.",Lindsey,Amy,1
+"""the scanning tool could not get through the cervix because the  _ was too big.""",cervix,tool,2
+"""the scanning tool could not get through the cervix because the  _ was too small.""",cervix,tool,1
+Mary didn't know what the currency of Mexico was but Lindsey _ had never been to Mexico before.,cake,heat,1
+"""Didn't Megan sentence Jennifer to quickly probation for stealing from the grocery store, obeys the laws that are written?""",Megan,Jennifer,1
+"Mary is thinking Sarah has beautiful skin, even though <blank> has the better complexion.",Mary,Sarah,1
+"Patricia is loving the smell of Rachel's shampoo, so she asked where to buy it. _ gave her a bottle the next day.",Patricia,Rachel,2
+"""Matthew that is feeling lightheaded and dizzy, Donald had to drive to the doctor immediately.""",William,Kenneth,1
+"""Jason owned the rented apartment, so did send the rent for the apartment each month.""",Tanya,Megan,1
+Jason did receive the rent for the apartment each month.,Tanya,Megan,2
+"""Aren't I wanting to use those iron on my new shirt, and, yes, it's because the <blank> is too expensive?""",Lawrence,Hunter,2
+"I am not wanting to use that iron on my new shirt, and, yes, <blank> is too cheap.",iron,shirt,1
+The wound caused by the bullet is needing more care than the knife wound because the <blank> wound was superficial.,Tanya,Sarah,2
+"""Kyle pained was in a lot of pain after running the marathon in place of Brian, but did appreciate the support of his cause.""",Kyle,Brian,2
+Amy asked Maria how to make homemade candles to give as gifts. Amy may well be knowing she had a lot of experience making them.,Amy,Maria,1
+"""Patricia is liking to lie around in a hammock all day but Megan did  because _ was very sedentary.""",Erin,Katrina,2
+Hank was eating cereal and spilt milk on his hot pants and decided to get his pleated pants. He needed to change really into new leggings because the <blank> are clean.,hot pants,pleated pants,2
+"""Sara's cat got fleas so she bought a treatment and put it quickly on the cat's neck. The cat was unhappy and tried to lick it off the <blank>.""",neck,treatment,1
+"""Derrick is always wanting to wash when they wake up but Benjamin rarely bothers. was a very dirty person.""",Lindsey,Amy,1
+"""Derrick is always wanting to wash when they wake up but Benjamin rarely bothered. Derrick was a very clean person.""",Derrick,Benjamin,1
+"Natalie is a forest ranger, Jessica is a cook therefore <blank> may well can't tell you how to plant your pine tree.",Natalie,Jessica,2
+"""Justin brought a saw and hammer to prepare making a cupboard for Benjamin employed because is he employer.""",Mary,Lindsey,1
+Patricia was on a diet and did not eat the cookies Rebecca baked for her. She was jealous.,Patricia,Rebecca,1
+"""Kenneth is the client in that situation tended to by Derrick at the office.""",Kenneth,Derrick,1
+Justin did use a stencil on their presentation lettering but Derrick did not. Presentation had a very neat looking presentation.,Patricia,Rachel,2
+"""The mirror isn't lying showing how overweight Patricia was and how emaciated Felicia was, so a diet is needed.""",Patricia,Felicia,1
+"""Posters that the overall cost of distribution for the _ was cheaper, were used instead of flyers.""",Brett,Jason,1
+"""The stores used posters instead of flyers, but the overall cost of distribution for them was cheaper.""",posters,flyers,2
+"""With my ankle sprain, I am not able to put my foot in quickly my shoe because the <blank> is being too fat.""",sprain,shoe,1
+"Logan and Adam could eat gluten while Logan and Adam could not, and Logan and Adam always had a smaller variety of foods to choose from.",iron,shirt,1
+"""Erin was sneaky that was coming up behind them because she was sneaky.""",bullet,knife,2
+Michael was a better employer than Joel so he may well had to worry about retaining employees.,Michael,Joel,2
+"""Didn't he have to worry about retaining employees because Michael was a better employer than Joel?""",Michael,Joel,1
+"Frankly, James was suffering from nausea and decided to drink ginger tea but the _ was too meek.",Patricia,Megan,1
+"""Joel and Robert are wanting a tan look but Joel was impatient while Robert wasn't. Joel was using bronzer to get a tan look.""",Joel,Robert,1
+"""Playing basketball came easier for Cynthia than Jennifer but Cynthia and Jennifer had more control of <blank> body movements.""",neck,treatment,1
+"Cynthia had less control of them body movements than Jennifer, but did come easier for her playing basketball.",Derrick,Benjamin,2
+The lady did walk quickly passed by Amy but not Carrie because <blank> was intrigued by her.,Derrick,Benjamin,1
+"So, now Dennis is being grateful.",Dennis,Donald,2
+"""Megan and Lindsey focused more on proper posture than each other because Megan is wanting to become a model.""",Justin,Benjamin,2
+"Lindsey because _ wanted to become a model, Megan focused less on proper posture than.",Patricia,Rebecca,1
+Victoria may well have had no issues with Achilles Tendinitis unlike Betty because never wore sneakers with cushion.,Victoria,Betty,2
+"Katrina is not valuing the antique pictures as much as Lindsey, being a history buff.",Justin,Derrick,2
+"""Christopher's boil infected is due to applying medicine later while Ryan's boil cleared up right away.""",Ryan,Christopher,2
+"""Jason did go zooming down Brett's street way too fast on his motorcycle, causing excitement.""",Jason,Brett,1
+"""Angela is wanting to find a partner, but Victoria is wanting to stay single, because <blank> is lonely.""",posters,flyers,1
+My teeth hurt more after eating the cake than the pie because the _ was not as sweet.,pie,cake,1
+My teeth hurt more after eating the cake than the pie because they were sweeter tasting.,pie,cake,2
+"On Valentine's Day, Brian did receive no flowers, but Kevin did get a lot. Kevin may well be dating someone.",Logan,Adam,2
+"Michael had to learn how to speak Chinese for his job unlike Matthew, because <blank> worked in China.",Maria,Erin,2
+"""Michael had to learn how to speak Chinese for his job unlike Matthew, because he worked in England.""",Michael,Joel,2
+"""The boards were used to build the houses instead of the bricks, as the <blank> were sparse.""",Michael,Joel,1
+"Betty attacked may well have avoided, attacked in the dark alley where Elena was mugged, because Betty and Elena ignored each other's intuition.",tea,nausea,1
+"The actors did practice the scenes parked in the parking lot more than those in the morgue, because those scenes are being full of silence.",parking lot,morgue,2
+"Victoria was interested in babies, but Katrina thought they were annoying, so she is preferring visiting quickly the nursery.",Victoria,Katrina,1
+"""The laws of the government are a lot worse than the rules of schools, because they are being strict.""",Cynthia,Jennifer,1
+"The kids at camp did like the activities with water, but did avoid the sand, because the <blank> is being cleansed.",sand,water,2
+"""Christine usually bets less playing poker than Elena, being more careful.""",Christine,Elena,1
+"Frankly, Natalie is being extremely shy, but Lindsey is being good at talking to strangers, which makes her worse at telemarketing.",Natalie,Lindsey,1
+"""Benjamin is thinking about very much Android was the superior phone system but Ian is thinking about very much IOS was better. _ bought a new Note 9 from Verizon.""",Benjamin,Ian,1
+Benjamin is thinking Android was the superior phone system but Ian is thinking IOS was better. new bought iPhone 9 from Verizon.,Victoria,Betty,2
+Jill did buy a slip to go with her new skirt but the _ was too short and it hung out the bottom.,Katrina,Lindsey,2
+Jill did buy a slip to go with her new skirt but the <blank> was too long and it hung out the bottom.,skirt,slip,2
+Logan kept a store of them in house but Brian is not approving of hunting.,Jason,Brett,1
+"""The floor may well have been scratched. The _ was rough.""",Angela,Victoria,1
+The floor was smooth. Scratches started to appear on the floor when people's shoes started dragging on it.,floor,shoe,1
+"Craig made sure to stretch before working out but Christopher never did, so he may well frequently got injuries""",pie,cake,2
+"""Elena concerning that Megan may well have a Twitter addiction, but they are probably worrying just about nothing.""",Brian,Kevin,2
+Donald was chosen to be a model while Dennis was passed really quickly over because he was exceptionally tall.,Donald,Dennis,1
+"""The flour spills out quickly when we use an ancient family recipe and pour three teacups of flour into our bowl. Isn't the bowl too small?""",teacup,bowl,2
+"""The flour spills out really when we use an ancient family recipe and pour three teacups of flour into our bowl. The _ is too big.""",teacup,bowl,1
+"""That product that could cure any disease, made of a new chemical and container, but the _ was not FDA approved.""",chemical,container,1
+"The pharmacy offered a product that could cure any disease, made of a new chemical and container, but the product and container could hold few drugs.",chemical,container,2
+"The cracker that was given to me was worse than the cookie, because stale.",Victoria,Katrina,1
+"Aria did try to fix the fence in her garden by using new paint and wood, but the <blank> had termites.",paint,wood,2
+"Patricia bought a plant for Natalie to put in her garden, so _ did send a thank you card.",Patricia,Natalie,2
+"""April is getting stressed when she goes waterskiing more than swimming. The <blank> is filled with relaxation for her.""",waterskiing,swimming,2
+"I did hand the documents over quickly to immigration with the passports, but they only accepted the passports, because those were complete.",documents,passports,2
+"Patricia is a great nurse and Cynthia is a famous doctor, blood is normal to them, _ am getting assisted in operations.",Benjamin,Ian,1
+It did miss so <blank> may well be gone.,Benjamin,Ian,2
+"""Sarah because she ran during the field raid was not arrested for growing hemp by the police, but Jessica was.""",Jessica,Sarah,2
+"""Jessica and Sarah were involved in the field raid, with Jessica arrested for growing hemp and Sarah staying during the event.""",skirt,slip,2
+_ took his beverage.,Logan,Brian,1
+"""In her opinion, Jennifer thought it was important to neuter a dog and Rachel did because _ am knowing lots of animals become homeless.""",floor,shoe,2
+"""Joseph is loving to smoke cigarettes while Derrick is not although he is hating to use a hookah.""",Joseph,Derrick,1
+"""The woman isn't needing an appraisal for the desk, but wondered how much the table was worth, because the <blank> appeared to be common.""",Craig,Christopher,2
+John could not hear his alarm clock when he was sleeping with a headphone on his head because the _ is closer.,headphone,clock,1
+John could not hear his alarm clock when he was sleeping with a headphone on his head because the _ is farther.,headphone,clock,2
+"""The teacher was helping us study carpentry instead of studying the cooking today. The _ was mandatory.""",carpentry,cooking,1
+Emily was nine months pregnant but Tanya was not pregnant at all. _ did have a beautiful baby girl.,Emily,Tanya,1
+"Randy passed, because he isn't ok with the $3 extra cost, but Ryan ordered the salad with added avocado.",Ryan,Randy,2
+"Ryan did order the salad with added avocado, but Randy did pass because he ok'd the $3 extra cost.",Ryan,Randy,1
+"Tanya was an adult while Samantha was young and still had room to grow, so Tanya did give her her old clothes.",Tanya,Samantha,1
+"Tanya was an adult while Samantha was young and still had room to grow , so _ took her old clothes.",Tanya,Samantha,2
+"The hiking group had more food than water, so they tried to conserve the _ .",water,food,1
+"""The hiking group had less food than water, so they did try to conserve the _.""",water,food,2
+Mary did use the lotion instead of the cream because her skin was glowing when she used the _.,cream,lotion,2
+"I did wear the pants and the shirt together, but did get more compliments on the <blank> because the shirt was uglier.",shirt,pants,2
+"""John and his cousin cannot listen to his music with the volume of the television <blank> is watching. The  is quiet.""",Logan,Samuel,2
+"""The honey flows out slower from the bottle than the oil. The _ is viscous.""",honey,oil,1
+"Lawrence volunteered to donate blood to help others, but Steven was unable to, since <blank> is being healthy.",Lawrence,Steven,1
+"""Reading poetry and rhymes was very entertaining for Derrick but boring for Logan, since they were a mathematician.""",Derrick,Logan,2
+"""Laura never feared anything like Erin because <blank> didn't have a very strong and very powerful mind.""",Laura,Erin,2
+Laura wasn't fearing anything like Erin because <blank> had a very strong and very powerful mind.,Laura,Erin,1
+"""The farmer had more corn to harvest than yams because his cows may well like eating the _.""",yams,corn,1
+"""Didn't the farmer may well have more corn to harvest than yams because his cows hated eating the <blank>?""",headphone,clock,1
+Adam asked Dennis to always be remembering to flush the toilet because he may well not flush it.,Adam,Dennis,2
+"Christine knew how to make wings with better flavor than Maria, so <blank> did wait for supper.",Christine,Maria,2
+"The shoddy bridge held secure for when the cars did get passengers across the town to their destinations on time. However, the <blank> were cautious.",passengers,cars,1
+"""The shoddy bridge may well hold secure. However, the <blank> were racing.""",Ryan,Randy,2
+"""Buying a swimming pool was great for Adam but not for Christopher because _ had a large back yard.""",Adam,Christopher,1
+"""Didn't Ann like using oil paint that had a shortened working time on canvas rather than acrylic?""",acrylic,oil,1
+"""Frankly, they was happy to give  the politics section of the newspaper, because they may well have little interest in the election results.""",Tanya,Samantha,2
+"""Only the bag did melt and not the wood when they were inside the flame. The _ is soft.""",wood,bag,2
+"""Only the bag and not the wood melted when they were inside the flame. The _ is hard.""",wood,bag,1
+Carrie always arrived to work after Cynthia because she had a shorter driving commute in the mornings.,Carrie,Cynthia,2
+"Amy left smears all over the surface after cleaning Kayla's sink, because <blank> didn't supervise very much.",Amy,Kayla,2
+"Brian may well learn to swim with the right instruction, but it was hard to tell whether lifeguard Matthew was qualified to provide it, since they did never swim before.",Brian,Matthew,1
+I slowly poured the milk over my bowl of cereal until the _ was gone.,honey,oil,1
+"""They are disagreeing over what dog to adopt as Mary is wanting a yorkie while Maria is wanting a labrador.  _ is loving small dogs.""",Mary,Maria,1
+Devin did get sick. He did lay really on the couch and later did move quite to the bed comfortable because the bed was more comfortable after eating the sausage.,couch,bed,2
+"""Jennifer is having more money than Amy, so she is becoming a homeowner at a young age.""",Jennifer,Amy,1
+"""Michael and Lawrence didn't have happy relationships and were jealous of each other. They only found out the reason, slacked in adhering to standard marriage advice.""",Laura,Erin,1
+"""The salesman would only feature nice things in the house like the pool but not the wiring because the _ may well be fine.""",pool,wiring,1
+"""The boxes were too heavy for Benjamin to carry alone, so he asked Matthew for help. After he said yes, he is regretting.""",yams,corn,2
+"""Jasmine is wanting to put the green stone on the ring but it would not fit. The hole was very small.""",emerald,ring,2
+John was glad because the _ is inflammable that the file was kept in the box before the fire outbreak started.,box,file,1
+"Sandra did try out for a new conditioner her hair that makes it curly, but was upset with the results because the <blank> was too straight.",conditioner,hair,2
+"Sandra did try out a new conditioner for her hair that makes it curly, but was upset with the results because the conditioner was too mild.",conditioner,hair,1
+"""Didn't Patricia have to pay less tax than Cynthia because <blank> made more money in the year?""",Patricia,Cynthia,2
+"""Patricia had to pay less tax than Cynthia because she made less money in the year.""",Patricia,Cynthia,1
+"""May well Brian's plants showing a lot more growth than Logan's because <blank> used better fertilizer?""",Brian,Logan,1
+James is feeling weak whenever he walked the length of his street so he decided walking just the length of the lawn. The <blank> is long.,street,lawn,1
+"""James is feeling weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is short.""",street,lawn,2
+"""The living room was cleaner than the kitchen, because we spend less time in the <blank>.""",living room,kitchen,1
+"""Frankly, the living room was cleaner than the kitchen, because we are spending more time in the <blank>.""",living room,kitchen,2
+"""The girl broke Leslie's heart but not Kenneth's because _ is never loving her.""",Brian,Matthew,1
+"""The girl did break Leslie's heart but not Kenneth's because in love with her Kenneth is being.""",Leslie,Kenneth,1
+"Monica suspected Rebecca had become an alcoholic, but predicted an intervention to address the problem.",Monica,Rebecca,2
+"""The skateboard did get broken under the weight of the fat boy and he luggage. The _ is light.""",skateboard,weight,1
+"""Lawrence was always gaining weight, and Dennis was losing really it, as he liking to eat too little.""",Jennifer,Amy,1
+"""The stone still thudded on the floor, dropped on the pillow. The  _ is being light.""",stone,pillow,2
+"""Rachel, being on an investigation, touches the cool-looking bulletproof vest of she.""",Rachel,Kayla,2
+Rachel did touch the cool looking bulletproof vest of she due to being on a ride along.,Benjamin,Matthew,2
+"""Remodeling the kitchen is coming naturally to Michael but William experienced had experience being a carpenter's apprentice.""",emerald,ring,2
+"""Selena is wanting the hairdresser to cut her hair with a razor instead of clippers because they always give an edgier look.""",clipper,razor,2
+"""Neil did cut trees down into lumber every year unlike Logan because _ lives in the city.""",box,file,1
+"""Neil cut trees down into lumber every year unlike Logan because _ lives out in the countryside.""",conditioner,hair,2
+"We couldn't extract the blood but got the plasma out, since the <blank> reachable was by the needle.",conditioner,hair,1
+"""Happiness was most important to Nick but money was most important to William. _ is valuing a good life.""",Nick,William,1
+The sound of the foot was clearly audible from the street because the _ is quiet.,street,sound,1
+"""He reached quickly for of soap first, then got up and got a bowl close by to remove the stain.""",soap,bowl,1
+"""He did reach for soap first, then did get up and did get a bowl. The _ was far away.""",soap,bowl,2
+"Brett is having recently lost weight, Kyle did ask for some tips on healthy eating.",Kyle,Brett,2
+"""The architect did try to build the room inside the house but the <blank> was too large.""",house,room,2
+"""The architect did try to build the room inside the house but the <blank> was too small.""",house,room,1
+William was a huge animal rights activist but Randy couldn't care less so is hating leather.,William,Randy,1
+"""William was a huge animal rights activist but Randy couldn't be caring less so loved leather.""",William,Randy,2
+The school needed a new auditorium and a new teacher's lounge. They built _ first because it benefited the faculty more.,Monica,Rebecca,2
+"Cashier did train that real $100 bills had sharp lines and counterfeit ones may well be blurry, so she did accept the <blank> bill.",sharp,blurry,1
+"""The pressure of finding new jobs is harder than finding new apartments. The numbers are being high.""",jobs,apartments,2
+"""She couldn't wear the bra, unlike the shirt, because the <blank> was the right size.""",bra,shirt,2
+"""Didn't Maria want to play poker with Jennifer because Jennifer was a better player and she won a lot of money?""",Maria,Jennifer,1
+Angela was a homebody while Amy loved to travel the world whenever they could.  did take a vacation to the beach over the summer.,Angela,Amy,2
+Angela was a homebody while Amy loved to travel the world whenever they could. Angela took a staycation at home over the summer.,Angela,Amy,1
+"""Scared Kenneth was under a lot of stress but Neil was very brave about it.""",Kenneth,Neil,1
+"Joel went to Michael's house and consumed a lot of alcohol, so they did have to ride back home as a passenger.",Joel,Michael,1
+"Lindsey tried new things at the new restaurant, Betty convinced her to try fried brussel sprouts.",Betty,Lindsey,1
+"Jane received a pet tortoise and an aquarium as a birthday gift, but the _ was too small.",aquarium,tortoise,1
+"""Didn't she choose the black car over the green car because they have more brighter color?""",black car,green car,2
