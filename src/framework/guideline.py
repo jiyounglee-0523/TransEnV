@@ -49,14 +49,14 @@ def return_guideline(task_config, dataset_name, data_path):
 
     elif (task_config.task_name == 'L1') & (task_config.l1 is not None):
         l1_file_path = os.path.join(data_path, 'L1_Grammar/python_grammar_error.json')
-        guideline = json_load(file_path)
+        guideline = json_load(l1_file_path)
         l1_linguistic_features = l1_grammarerror[task_config.l1]
         guideline = [(g['grammar_error'], g['guideline']) for g in guideline if g['grammar_error'] in l1_linguistic_features]
 
 
     elif (task_config.task_name == 'cefr') & (task_config.cefr_level is not None):
         cefr_file_path = os.path.join(data_path, 'CEFR_Grammar/orig_generated_guideline_wo_example_grammar_error.json')
-        guideline = json_load(file_path)
+        guideline = json_load(cefr_file_path)
         cefr_linguistic_features = cefr_error[task_config.cefr_level]
         guideline = [(g['feature'][1:-1].strip(), g['guideline']) for g in guideline if g['feature'][1:-1].strip() in cefr_linguistic_features]
         
