@@ -72,9 +72,9 @@ def load_test_data(args):
 
     # expected sample size
     data_type = None
-    if ('/dialect/' in args.data_path) or ('__dialect__' in args.data_path) or ('__original__' in args.data_path):
+    if ('dialect' in args.data_path) or ('__dialect__' in args.data_path) or ('__original__' in args.data_path):
         data_type = 'dialect'
-    elif ('/l1/' in args.data_path):
+    elif ('l1' in args.data_path):
         data_type = args.data_path.split('/')[-1][0]
     elif '__l1__' in args.data_path:
         data_type = args.data_path.split('__l1__')[-1][0]
