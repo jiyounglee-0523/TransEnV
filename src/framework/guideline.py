@@ -57,9 +57,9 @@ def return_guideline(task_config, dataset_name, data_path):
     elif (task_config.task_name == 'cefr') & (task_config.cefr_level is not None):
         cefr_file_path = os.path.join(data_path, 'assets/guidelines/orig_generated_guideline_wo_example_grammar_error.json')
         guideline = json_load(cefr_file_path)
-        cefr_linguistic_features = CEFR_ERROR[task_config.cefr_level]
+        cefr_linguistic_features = cefr_feature(task_config.cefr_level)
         guideline = [(g['feature'][1:-1].strip(), g['guideline']) for g in guideline if g['feature'][1:-1].strip() in cefr_linguistic_features]
-        
+    
     else:
         raise NotImplementedError(f'Please double check the task name, we got {task_config.task_name}')
 
