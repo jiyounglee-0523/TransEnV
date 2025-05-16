@@ -1,4 +1,4 @@
-# Trans-EnV: A Framework for Transforming into English Varieties to Evaluate the Robustness of LLMs
+# A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties
 This repository is the official implementation of Trans-EnV.
 <p align="center">
     <img src="docs/figs/figure1.png"/>
@@ -64,3 +64,7 @@ The results highlight that most LLMs perform best on tasks in SAE.
 </p>
 
 &nbsp;
+
+## License 🔑
+This project is licensed under the [MIT License](LICENSE).
+You are free to use, modify, and distribute this software with proper attribution.
