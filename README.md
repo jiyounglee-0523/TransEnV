@@ -37,7 +37,7 @@ MODEL_DIR=${HF_MODEL_PATH}  # If you don't set, path will be set automatically `
 ### Trans-EnV
 ```bash
 # Convert MMLU to ESL variety via Trans-EnV
-python src/run/main.py --batch_size 15  --save_path ./output/mmlu/l1 --file_name A_arabic --l1 Arabic --task_name L1 --cefr_level A --port_num 6001 --dataset_name mmlu --model_name google/gemma-2-27b-it --tokenizer google/gemma-2-27b-it
+python src/run/main.py --batch_size 15  --save_path ./outputs/mmlu/l1 --file_name A_arabic --l1 Arabic --task_name L1 --cefr_level A --port_num 6001 --dataset_name mmlu --model_name google/gemma-2-27b-it --tokenizer google/gemma-2-27b-it
 ```
 
 &nbsp;
