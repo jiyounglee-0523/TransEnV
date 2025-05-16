@@ -152,13 +152,7 @@ wandb/
 # ipynb files
 *.ipynb
 
+# Logs and outputs
+
 logs_dialect/
 logs_l1/
-test/output*
-test/source
-test/processed_output
-test/*.ipynb
-test/*.sh
-test/*.tsv
-test/*.csv
-test/batch_api
