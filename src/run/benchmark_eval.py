@@ -316,7 +316,7 @@ if __name__ == "__main__":
     exp_config = build_experiment(args)
 
     # Execution
-    if any(m in args.model for m in ['o1-mini', 'o3-mini', 'gpt-4o'])
+    if any(m in args.model for m in ['o1-mini', 'o3-mini', 'gpt-4o']):
         openai_call(
             max_tokens=args.max_tokens,
             **exp_config
