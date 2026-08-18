@@ -33,6 +33,25 @@ MODEL_DIR=${HF_MODEL_PATH}  # If you don't set, path will be set automatically `
 &nbsp;
 
 
+## Live Demo 🎛️
+Try it on Hugging Face Spaces — free ZeroGPU tier (no API key) or your own OpenAI / Gemini / Anthropic key:
+
+**https://huggingface.co/spaces/jiyounglee0523/Trans-EnV-demo**
+
+The demo transforms Standard American English into 18 dialects (eWAVE features) or ESL learner English (10 native languages × CEFR level A/B — sampled CEFR simplification rules + L1 grammar-transfer errors), streaming the rule-by-rule pipeline live with a word-level diff of the result.
+
+To run it locally:
+```bash
+pip install -r demo/requirements.txt
+python demo/app.py          # http://localhost:7860  (add --share for a public link)
+```
+See [demo/README.md](demo/README.md) for details.
+
+&nbsp;
+
+&nbsp;
+
+
 ## Execution 🚀
 ### Trans-EnV
 ```bash

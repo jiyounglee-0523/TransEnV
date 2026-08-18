@@ -156,3 +156,7 @@ wandb/
 
 logs_dialect/
 logs_l1/
+
+.gradio/
+__pycache__/
+*.pyc
