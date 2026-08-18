@@ -1,0 +1,4 @@
+gradio>=4.0
+openai>=1.0
+anthropic
+pandas

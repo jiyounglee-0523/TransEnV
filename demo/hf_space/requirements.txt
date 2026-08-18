@@ -1,0 +1,7 @@
+openai>=1.0
+anthropic
+pandas
+torch
+transformers
+accelerate
+spaces
