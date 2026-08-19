@@ -280,6 +280,79 @@ def word_diff(original, transformed):
     return "".join(out_a), "".join(out_b)
 
 
+# ---------------------------------------------------------------------------
+# Examples gallery (pre-transformed GSM8K questions from the released benchmark)
+# ---------------------------------------------------------------------------
+
+with open(ROOT / "assets/gallery_examples.json") as f:
+    _gallery = json.load(f)  # {"dialect"|"l1": {variety_key: [{"o":…, "t":…} × 8]}}
+
+GALLERY_DIALECT_KEYS = {
+    "AAVE (Urban African American Vernacular English)": "aave",
+    "Appalachian English": "appalachian",
+    "Australian English": "australian",
+    "Australian Vernacular English": "australian_vernacular",
+    "Bahamian English": "bhamanian",
+    "East Anglian English": "east_anglian",
+    "Irish English": "irish",
+    "Manx English": "manx",
+    "New Zealand English": "new_zealand",
+    "Newfoundland English": "newfoundland",
+    "North of England dialects": "north_england",
+    "Ozark English": "ozark",
+    "Scottish English": "scottish",
+    "Southeast American enclave dialects": "southeast_american",
+    "Southeast of England dialects": "southeast_england",
+    "Southwest of England dialects": "southwest_england",
+    "Tristan da Cunha English": "cunha",
+    "Welsh English": "welsh",
+}
+
+_L1_LANG_NAMES = {
+    "arabic": "Arabic", "chinese_mandarin": "Chinese-Mandarin", "french": "French",
+    "german": "German", "italian": "Italian", "japanese": "Japanese",
+    "portuguese": "Portuguese", "russian": "Russian", "spanish": "Spanish",
+    "turkish": "Turkish",
+}
+GALLERY_L1_KEYS = {}
+for _key in sorted(_gallery["l1"]):
+    _level, _lang = _key.split("_", 1)
+    GALLERY_L1_KEYS[f"{_L1_LANG_NAMES.get(_lang, _lang.title())} (CEFR {_level})"] = _key
+
+
+def gallery_pairs(gallery_type, variety_label):
+    if gallery_type == "Dialect":
+        return _gallery["dialect"][GALLERY_DIALECT_KEYS[variety_label]]
+    return _gallery["l1"][GALLERY_L1_KEYS[variety_label]]
+
+
+def gallery_choices(gallery_type, variety_label):
+    pairs = gallery_pairs(gallery_type, variety_label)
+    return [f"{i + 1}. {p['o'][:70].rstrip()}…" for i, p in enumerate(pairs)]
+
+
+def render_gallery(gallery_type, variety_label, example_choice):
+    pairs = gallery_pairs(gallery_type, variety_label)
+    i = int(str(example_choice).split(".", 1)[0]) - 1
+    i = max(0, min(i, len(pairs) - 1))
+    original, transformed = pairs[i]["o"], pairs[i]["t"]
+    orig_html, trans_html = word_diff(original, transformed)
+    notice = ""
+    return f"""
+    <div class="panes">
+      <div class="pane">
+        <p class="panelabel">Standard American English</p>
+        <p class="sentence">{orig_html}</p>
+      </div>
+      <div class="pane">
+        <p class="panelabel">{html.escape(variety_label)}</p>
+        <p class="sentence">{trans_html}</p>
+        {notice}
+      </div>
+    </div>
+    """
+
+
 STATUS_ICONS = {
     "applied": ("applied", "&#10003;"),
     "nochange": ("nochange", "&ndash;"),
@@ -413,7 +486,7 @@ CSS = """
 :root { --add-bg: #d9f2e5; --add-ink: #0b5e3c; --del-bg: #fbe3e0; --del-ink: #8f2f22; }
 .gradio-container { max-width: 1200px !important; margin: 0 auto; }
 #title h1 { margin-bottom: 0.1em; }
-#title p { color: var(--body-text-color-subdued); margin-top: 0; }
+#title p { color: var(--body-text-color); margin-top: 0; }
 .panes { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
 @media (max-width: 800px) { .panes { grid-template-columns: 1fr; } }
 .pane { border: 1px solid var(--border-color-primary); border-radius: 10px;
@@ -469,69 +542,116 @@ def build_app():
         gr.HTML(f"<style>{CSS}</style>")
         gr.HTML(
             "<div id='title'><h1>Trans-EnV</h1>"
+            "<b>Trans-EnV: A Framework for Evaluating the Linguistic Robustness of "
+            "LLMs Against English Varieties</b> (NeurIPS 2025 Datasets and Benchmarks "
+            "Track) &mdash; <a href='https://arxiv.org/abs/2505.20875' "
+            "target='_blank'>Paper</a> &middot; "
+            "<a href='https://github.com/jiyounglee-0523/TransEnV' "
+            "target='_blank'>Code</a><br>"
             "<p>Transform Standard American English into an English variety with the "
-            "Trans-EnV guideline pipeline: 18 dialects (eWAVE features) or ESL "
-            "learner English (10 native languages &times; CEFR level A/B &mdash; "
-            "sampled CEFR simplification rules followed by L1 grammar-transfer "
-            "errors). Each rule is checked and applied by the LLM one at a time, "
-            "with an optional semantic-preservation judge, and the result is shown "
-            "as a word-level diff against the original. Try it free on ZeroGPU "
-            "(Qwen2.5-7B), or bring your own OpenAI, Gemini, or Anthropic API "
-            "key.</p></div>"
+            "Trans-EnV guideline pipeline: 18 English dialects or English as Second Language (ESL) "
+            "learner English.<br>"
+            "Try it free on ZeroGPU (Qwen2.5-7B), or bring your own "
+            "OpenAI, Gemini, or Anthropic API key.<br>"
+            "\U0001F512 API keys are sent only to the provider you choose and are never stored or logged &mdash; feel free "
+            "to use your own key with confidence.</p></div>"
         )
 
-        with gr.Row():
-            with gr.Column(scale=1):
-                providers = list(PROVIDERS)
-                if FREE_PROVIDER in providers:
-                    providers = [FREE_PROVIDER] + [p for p in providers if p != FREE_PROVIDER]
-                default_provider = providers[0]
-                provider = gr.Radio(providers, value=default_provider, label="Provider")
-                model = gr.Dropdown(
-                    PROVIDERS[default_provider]["models"],
-                    value=PROVIDERS[default_provider]["default"],
-                    label="Model", allow_custom_value=True,
-                )
-                api_key = gr.Textbox(
-                    label="API key", type="password", placeholder="sk-...",
-                    info="Used only for this session's requests; never stored.",
-                    visible=default_provider != FREE_PROVIDER,
-                )
-                variety_type = gr.Radio(
-                    ["Dialect", "ESL (L1 transfer)"], value="Dialect", label="Variety type"
-                )
-                dialect = gr.Dropdown(
-                    list(DIALECTS), value=list(DIALECTS)[0], label="Dialect"
-                )
-                l1 = gr.Dropdown(
-                    L1_LANGUAGES, value=L1_LANGUAGES[0], label="Native language (L1)",
-                    visible=False,
-                )
-                cefr = gr.Dropdown(
-                    CEFR_CHOICES, value=CEFR_CHOICES[0], label="CEFR level",
-                    visible=False,
-                    info=f"Applies {CEFR_SAMPLE_SIZE} randomly sampled CEFR "
-                         "simplification rules before the L1 errors (the full "
-                         "pipeline runs all of them offline).",
-                )
-                with gr.Accordion("Advanced", open=False):
-                    shuffle_rules = gr.Checkbox(True, label="Shuffle rule order")
-                    use_judge = gr.Checkbox(
-                        True, label="Semantic-preservation judge",
-                        info="Reject a rule's rewrite if the LLM judge finds meaning loss.",
-                    )
+        with gr.Tabs():
+            with gr.Tab("Live transform"):
+                with gr.Row():
+                    with gr.Column(scale=1):
+                        providers = list(PROVIDERS)
+                        if FREE_PROVIDER in providers:
+                            providers = [FREE_PROVIDER] + [p for p in providers if p != FREE_PROVIDER]
+                        default_provider = providers[0]
+                        provider = gr.Radio(providers, value=default_provider, label="Provider")
+                        model = gr.Dropdown(
+                            PROVIDERS[default_provider]["models"],
+                            value=PROVIDERS[default_provider]["default"],
+                            label="Model", allow_custom_value=True,
+                        )
+                        api_key = gr.Textbox(
+                            label="API key", type="password", placeholder="sk-...",
+                            info="Sent directly to the selected provider for this "
+                                 "session's requests only — we never store or log "
+                                 "your key, so it's safe to use here.",
+                            visible=default_provider != FREE_PROVIDER,
+                        )
+                        variety_type = gr.Radio(
+                            ["Dialect", "ESL (L1 transfer)"], value="Dialect", label="Variety type"
+                        )
+                        dialect = gr.Dropdown(
+                            list(DIALECTS), value=list(DIALECTS)[0], label="Dialect"
+                        )
+                        l1 = gr.Dropdown(
+                            L1_LANGUAGES, value=L1_LANGUAGES[0], label="Native language (L1)",
+                            visible=False,
+                        )
+                        cefr = gr.Dropdown(
+                            CEFR_CHOICES, value=CEFR_CHOICES[0], label="CEFR level",
+                            visible=False,
+                            info=f"Applies {CEFR_SAMPLE_SIZE} randomly sampled CEFR "
+                                 "simplification rules before the L1 errors (the full "
+                                 "pipeline runs all of them offline).",
+                        )
+                        with gr.Accordion("Advanced", open=False):
+                            shuffle_rules = gr.Checkbox(True, label="Shuffle rule order")
+                            use_judge = gr.Checkbox(
+                                True, label="Semantic-preservation judge",
+                                info="Reject a rule's rewrite if the LLM judge finds meaning loss.",
+                            )
 
-            with gr.Column(scale=2):
-                text = gr.Textbox(
-                    label="Standard American English input", lines=4,
-                    placeholder="Type or pick an example below…",
+                    with gr.Column(scale=2):
+                        text = gr.Textbox(
+                            label="Standard American English input", lines=4,
+                            placeholder="Type or pick an example below…",
+                        )
+                        gr.Examples(EXAMPLES, inputs=text, label="Examples")
+                        go = gr.Button("Transform", variant="primary")
+                        status = gr.HTML()
+                        result = gr.HTML()
+                        with gr.Accordion("Rule-by-rule log", open=True):
+                            log = gr.HTML()
+
+            with gr.Tab("Examples gallery"):
+
+                with gr.Row():
+                    g_type = gr.Radio(
+                        ["Dialect", "ESL (L1 × CEFR)"], value="Dialect",
+                        label="Variety type",
+                    )
+                    g_variety = gr.Dropdown(
+                        list(GALLERY_DIALECT_KEYS), value=list(GALLERY_DIALECT_KEYS)[0],
+                        label="Variety",
+                    )
+                    _init_choices = gallery_choices("Dialect", list(GALLERY_DIALECT_KEYS)[0])
+                    g_idx = gr.Dropdown(
+                        _init_choices, value=_init_choices[0], label="Example",
+                    )
+                g_out = gr.HTML(
+                    value=render_gallery(
+                        "Dialect", list(GALLERY_DIALECT_KEYS)[0], _init_choices[0],
+                    )
                 )
-                gr.Examples(EXAMPLES, inputs=text, label="Examples")
-                go = gr.Button("Transform", variant="primary")
-                status = gr.HTML()
-                result = gr.HTML()
-                with gr.Accordion("Rule-by-rule log", open=True):
-                    log = gr.HTML()
+
+        def on_gallery_type(t):
+            options = list(GALLERY_DIALECT_KEYS) if t == "Dialect" else list(GALLERY_L1_KEYS)
+            examples = gallery_choices(t, options[0])
+            return (gr.update(choices=options, value=options[0]),
+                    gr.update(choices=examples, value=examples[0]))
+
+        def on_gallery_variety(t, v):
+            examples = gallery_choices(t, v)
+            return gr.update(choices=examples, value=examples[0])
+
+        g_type.change(on_gallery_type, g_type, [g_variety, g_idx]).then(
+            render_gallery, [g_type, g_variety, g_idx], g_out
+        )
+        g_variety.change(on_gallery_variety, [g_type, g_variety], g_idx).then(
+            render_gallery, [g_type, g_variety, g_idx], g_out
+        )
+        g_idx.change(render_gallery, [g_type, g_variety, g_idx], g_out)
 
         def on_provider(p):
             return gr.update(
@@ -552,17 +672,6 @@ def build_app():
             inputs=[text, variety_type, dialect, l1, cefr, provider, model, api_key,
                     shuffle_rules, use_judge],
             outputs=[result, log, status],
-        )
-
-        gr.HTML(
-            "<p style='font-size:0.8rem;color:var(--body-text-color-subdued);'>"
-            "Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs "
-            "Against English Varieties. Dialect features from eWAVE; CEFR rules from "
-            "the English Grammar Profile; L1 guidelines from learner-corpus "
-            "grammar-transfer errors. This demo samples the CEFR stage for speed "
-            "&mdash; the full benchmark pipeline applies every rule offline. API "
-            "keys are used only for your session's requests and are never "
-            "stored.</p>"
         )
 
     return demo
