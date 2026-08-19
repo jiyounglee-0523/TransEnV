@@ -108,12 +108,12 @@ The results highlight that most LLMs perform best on tasks in SAE.
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{lee2025transenv,
-  title     = {Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties},
-  author    = {Lee, Jiyoung and Kim, Seungho and Han, Jieun and Lee, Jun-Min and Kim, Kitaek and Oh, Alice and Choi, Edward},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track},
-  year      = {2025},
-  url       = {https://arxiv.org/abs/2505.20875}
+@article{lee2026trans,
+  title={Trans-env: A framework for evaluating the linguistic robustness of llms against english varieties},
+  author={Lee, Jiyoung and Kim, Seungho and Han, Jieun and Lee, Jun-Min and Kim, Kitaek and Oh, Alice and Choi, Edward},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  year={2026}
 }
 ```
 
